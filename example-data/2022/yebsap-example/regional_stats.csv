@@ -1,0 +1,674 @@
+species_code,region_type,region_code,region_name,region_area_km2,season,abundance_mean,total_pop_percent,range_percent_occupied,range_total_percent,range_days_occupation
+yebsap,country,BHS,The Bahamas,12604,nonbreeding,0.0382,0.0018,0.4876,0.0038,119
+yebsap,country,BHS,The Bahamas,12604,postbreeding_migration,0.01,5e-4,0.2669,0.0012,21
+yebsap,country,BHS,The Bahamas,12604,prebreeding_migration,0.0022,1e-4,0.0622,3e-4,21
+yebsap,country,BLZ,Belize,22299,nonbreeding,0.0157,7e-4,0.5004,0.0035,119
+yebsap,country,BLZ,Belize,22299,postbreeding_migration,0.0015,1e-4,0.161,7e-4,21
+yebsap,country,BLZ,Belize,22299,prebreeding_migration,7e-4,0,0.0486,2e-4,28
+yebsap,country,BMU,Bermuda,62,nonbreeding,0.0015,0,0.0526,0,35
+yebsap,country,BMU,Bermuda,62,postbreeding_migration,0.0042,0,0.0789,0,21
+yebsap,country,BMU,Bermuda,62,prebreeding_migration,5e-4,0,0.0263,0,14
+yebsap,country,CAN,Canada,9945629,breeding,0.0766,0.7686,0.3174,0.8139,91
+yebsap,country,CAN,Canada,9945629,nonbreeding,0,1e-4,3e-4,7e-4,0
+yebsap,country,CAN,Canada,9945629,postbreeding_migration,0.0171,0.3155,0.1791,0.2923,56
+yebsap,country,CAN,Canada,9945629,prebreeding_migration,0.0644,0.6051,0.2959,0.4622,49
+yebsap,country,CRI,Costa Rica,51151,nonbreeding,0.0014,1e-4,0.1821,0.0027,119
+yebsap,country,CRI,Costa Rica,51151,postbreeding_migration,1e-4,0,0.0174,2e-4,14
+yebsap,country,CRI,Costa Rica,51151,prebreeding_migration,0,0,3e-4,0,0
+yebsap,country,CUB,Cuba,109995,nonbreeding,0.1197,0.0259,0.8781,0.0315,119
+yebsap,country,CUB,Cuba,109995,postbreeding_migration,0.046,0.0109,0.7347,0.0154,21
+yebsap,country,CUB,Cuba,109995,prebreeding_migration,0.0724,0.0087,0.7711,0.0155,28
+yebsap,country,CYM,Cayman Islands,309,nonbreeding,0.0279,0,0.4956,1e-4,119
+yebsap,country,CYM,Cayman Islands,309,postbreeding_migration,0.0058,0,0.0708,0,7
+yebsap,country,CYM,Cayman Islands,309,prebreeding_migration,0.0046,0,0.0708,0,14
+yebsap,country,GTM,Guatemala,108811,nonbreeding,0.0095,0.0017,0.4194,0.0126,119
+yebsap,country,GTM,Guatemala,108811,postbreeding_migration,0.001,2e-4,0.2292,0.004,21
+yebsap,country,GTM,Guatemala,108811,prebreeding_migration,0.001,1e-4,0.1909,0.0032,21
+yebsap,country,HND,Honduras,112237,nonbreeding,0.0112,0.0022,0.4148,0.0133,119
+yebsap,country,HND,Honduras,112237,postbreeding_migration,1e-4,0,0.0212,4e-4,14
+yebsap,country,HND,Honduras,112237,prebreeding_migration,5e-4,1e-4,0.0827,0.0015,14
+yebsap,country,HTI,Haiti,26892,nonbreeding,8e-4,0,0.06,5e-4,56
+yebsap,country,JAM,Jamaica,11033,nonbreeding,0.0037,1e-4,0.2608,9e-4,70
+yebsap,country,JAM,Jamaica,11033,prebreeding_migration,0.0075,1e-4,0.0908,2e-4,7
+yebsap,country,MEX,Mexico,1957847,nonbreeding,0.0203,0.0671,0.4111,0.2255,119
+yebsap,country,MEX,Mexico,1957847,postbreeding_migration,0.004,0.0145,0.2565,0.0823,35
+yebsap,country,MEX,Mexico,1957847,prebreeding_migration,0.0018,0.0032,0.1433,0.044,42
+yebsap,country,NIC,Nicaragua,128685,nonbreeding,2e-4,0,0.0256,9e-4,119
+yebsap,country,NIC,Nicaragua,128685,prebreeding_migration,0,0,3e-4,0,0
+yebsap,country,PAN,Panama,74530,nonbreeding,1e-4,0,0.0701,0.0016,112
+yebsap,country,PAN,Panama,74530,prebreeding_migration,0,0,0.007,1e-4,14
+yebsap,country,SLV,El Salvador,20539,nonbreeding,0.0016,1e-4,0.0918,5e-4,119
+yebsap,country,SLV,El Salvador,20539,postbreeding_migration,0,0,0.0072,0,7
+yebsap,country,SLV,El Salvador,20539,prebreeding_migration,2e-4,0,0.0379,1e-4,14
+yebsap,country,USA,United States,9464228,breeding,0.0246,0.2314,0.0776,0.1861,91
+yebsap,country,USA,United States,9464228,nonbreeding,0.0571,0.9002,0.2686,0.7017,119
+yebsap,country,USA,United States,9464228,postbreeding_migration,0.0381,0.6583,0.3952,0.6036,84
+yebsap,country,USA,United States,9464228,prebreeding_migration,0.0435,0.3826,0.3235,0.4728,70
+yebsap,state,BHS-5009,New Providence,193,nonbreeding,0.0657,1e-4,0.5625,1e-4,119
+yebsap,state,BHS-5009,New Providence,193,postbreeding_migration,0.0032,0,0.3438,0,14
+yebsap,state,BHS-5009,New Providence,193,prebreeding_migration,0.0023,0,0.0938,0,21
+yebsap,state,BHS-5010,City of Freeport,14,nonbreeding,0.1838,0,0.7125,0,119
+yebsap,state,BHS-5010,City of Freeport,14,postbreeding_migration,0.0427,0,0.7125,0,21
+yebsap,state,BHS-5010,City of Freeport,14,prebreeding_migration,0.0399,0,0.7125,0,28
+yebsap,state,BHS-5011,West Grand Bahama,577,nonbreeding,0.0947,2e-4,0.686,2e-4,119
+yebsap,state,BHS-5011,West Grand Bahama,577,postbreeding_migration,0.0307,1e-4,0.6406,1e-4,21
+yebsap,state,BHS-5011,West Grand Bahama,577,prebreeding_migration,0.0106,0,0.3148,1e-4,28
+yebsap,state,BHS-5012,East Grand Bahama,485,nonbreeding,0.0781,2e-4,0.6479,2e-4,119
+yebsap,state,BHS-5012,East Grand Bahama,485,postbreeding_migration,0.0241,1e-4,0.5572,1e-4,21
+yebsap,state,BHS-5012,East Grand Bahama,485,prebreeding_migration,0.0059,0,0.2598,0,14
+yebsap,state,BHS-5014,North Abaco,253,nonbreeding,0.0259,1e-4,0.4895,2e-4,112
+yebsap,state,BHS-5014,North Abaco,253,postbreeding_migration,0.0059,0,0.2781,1e-4,21
+yebsap,state,BHS-5014,North Abaco,253,prebreeding_migration,0,0,0.0072,0,7
+yebsap,state,BHS-5015,Central Abaco,552,nonbreeding,0.0503,1e-4,0.7458,3e-4,119
+yebsap,state,BHS-5015,Central Abaco,552,postbreeding_migration,0.0067,0,0.3042,1e-4,21
+yebsap,state,BHS-5015,Central Abaco,552,prebreeding_migration,6e-4,0,0.0707,0,14
+yebsap,state,BHS-5016,South Abaco,517,nonbreeding,0.0804,2e-4,0.9771,3e-4,119
+yebsap,state,BHS-5016,South Abaco,517,postbreeding_migration,0.0189,0,0.657,1e-4,21
+yebsap,state,BHS-5016,South Abaco,517,prebreeding_migration,0.001,0,0.0529,0,14
+yebsap,state,BHS-5017,Moore's Island,14,nonbreeding,0.003,0,0.4286,0,7
+yebsap,state,BHS-5018,Berry Islands,26,nonbreeding,0.0222,0,0.2031,0,70
+yebsap,state,BHS-5018,Berry Islands,26,postbreeding_migration,0.0052,0,0.1875,0,21
+yebsap,state,BHS-5018,Berry Islands,26,prebreeding_migration,8e-4,0,0.0312,0,14
+yebsap,state,BHS-5019,North Andros,2475,nonbreeding,0.0616,4e-4,0.7731,7e-4,112
+yebsap,state,BHS-5019,North Andros,2475,postbreeding_migration,0.0012,0,0.1297,1e-4,14
+yebsap,state,BHS-5019,North Andros,2475,prebreeding_migration,1e-4,0,0.01,0,7
+yebsap,state,BHS-5020,Central Andros,1235,nonbreeding,0.0441,1e-4,0.6308,4e-4,105
+yebsap,state,BHS-5020,Central Andros,1235,postbreeding_migration,7e-4,0,0.0724,0,21
+yebsap,state,BHS-5021,Mangrove Cay,439,nonbreeding,0.0361,0,0.8204,2e-4,42
+yebsap,state,BHS-5021,Mangrove Cay,439,postbreeding_migration,0.0357,0,0.808,1e-4,21
+yebsap,state,BHS-5022,South Andros,964,nonbreeding,0.0231,1e-4,0.5398,3e-4,42
+yebsap,state,BHS-5022,South Andros,964,postbreeding_migration,0.0209,1e-4,0.5297,1e-4,21
+yebsap,state,BHS-5024,Exuma,217,nonbreeding,0.0402,1e-4,0.5175,1e-4,119
+yebsap,state,BHS-5024,Exuma,217,postbreeding_migration,0.0116,0,0.4035,1e-4,21
+yebsap,state,BHS-5024,Exuma,217,prebreeding_migration,0.0019,0,0.0965,0,14
+yebsap,state,BHS-5025,Spanish Wells,8,nonbreeding,0.0039,0,0.1,0,35
+yebsap,state,BHS-5026,Harbour Island,3,nonbreeding,0.0297,0,0.7686,0,35
+yebsap,state,BHS-5027,North Eleuthera,178,nonbreeding,0.0789,1e-4,0.6064,1e-4,119
+yebsap,state,BHS-5027,North Eleuthera,178,postbreeding_migration,0.017,0,0.5975,1e-4,21
+yebsap,state,BHS-5028,Central Eleuthera,139,nonbreeding,0.0846,0,0.6729,1e-4,112
+yebsap,state,BHS-5028,Central Eleuthera,139,postbreeding_migration,0.0171,0,0.6729,0,14
+yebsap,state,BHS-5029,South Eleuthera,230,nonbreeding,0.0929,1e-4,0.6614,1e-4,119
+yebsap,state,BHS-5029,South Eleuthera,230,postbreeding_migration,0.0166,0,0.6614,1e-4,14
+yebsap,state,BHS-5030,Cat Island,426,nonbreeding,0.0268,0,0.6667,2e-4,56
+yebsap,state,BHS-5030,Cat Island,426,prebreeding_migration,0.0043,0,0.3509,1e-4,14
+yebsap,state,BHS-5031,San Salvador,157,nonbreeding,0.0359,0,0.5714,1e-4,77
+yebsap,state,BHS-5033,Long Island,459,nonbreeding,0.0178,0,0.56,2e-4,84
+yebsap,state,BHS-5033,Long Island,459,postbreeding_migration,0.0515,1e-4,0.5267,1e-4,14
+yebsap,state,BHS-5033,Long Island,459,prebreeding_migration,0.0116,0,0.2133,0,21
+yebsap,state,BHS-5038,Inagua,1715,nonbreeding,2e-4,0,0.0101,0,7
+yebsap,state,BHS-5038,Inagua,1715,prebreeding_migration,0.0062,0,0.027,0,7
+yebsap,state,BHS-5039,Bimini,22,nonbreeding,0.004,0,0.1613,0,14
+yebsap,state,BHS-5039,Bimini,22,postbreeding_migration,7e-4,0,0.0323,0,7
+yebsap,state,BLZ-1323,Belize,3553,nonbreeding,0.0208,2e-4,0.4963,8e-4,119
+yebsap,state,BLZ-1323,Belize,3553,postbreeding_migration,0.0038,0,0.2371,2e-4,21
+yebsap,state,BLZ-1323,Belize,3553,prebreeding_migration,0.0016,0,0.0945,1e-4,28
+yebsap,state,BLZ-1324,Cayo,5250,nonbreeding,0.025,2e-4,0.6545,9e-4,112
+yebsap,state,BLZ-1324,Cayo,5250,postbreeding_migration,5e-4,0,0.1046,1e-4,14
+yebsap,state,BLZ-1324,Cayo,5250,prebreeding_migration,0.0014,0,0.0984,1e-4,21
+yebsap,state,BLZ-1325,Corozal,1974,nonbreeding,0.0046,0,0.2066,1e-4,119
+yebsap,state,BLZ-1325,Corozal,1974,postbreeding_migration,5e-4,0,0.0578,0,21
+yebsap,state,BLZ-1325,Corozal,1974,prebreeding_migration,3e-4,0,0.0231,0,14
+yebsap,state,BLZ-1326,Orange Walk,4714,nonbreeding,0.0027,0,0.2984,4e-4,63
+yebsap,state,BLZ-1326,Orange Walk,4714,postbreeding_migration,0,0,0.0018,0,7
+yebsap,state,BLZ-1355,Stann Creek,2459,nonbreeding,0.019,1e-4,0.5838,4e-4,119
+yebsap,state,BLZ-1355,Stann Creek,2459,postbreeding_migration,9e-4,0,0.0763,0,21
+yebsap,state,BLZ-1355,Stann Creek,2459,prebreeding_migration,2e-4,0,0.0126,0,28
+yebsap,state,BLZ-1356,Toledo,4350,nonbreeding,0.0157,1e-4,0.6277,8e-4,119
+yebsap,state,BLZ-1356,Toledo,4350,postbreeding_migration,0.0022,0,0.3918,3e-4,21
+yebsap,state,BLZ-1356,Toledo,4350,prebreeding_migration,2e-4,0,0.0204,0,21
+yebsap,state,BMU-5134,City of Hamilton,1,nonbreeding,0.0182,0,0.3393,0,35
+yebsap,state,BMU-5134,City of Hamilton,1,postbreeding_migration,0.0224,0,0.3393,0,21
+yebsap,state,BMU-5134,City of Hamilton,1,prebreeding_migration,0.0064,0,0.3393,0,14
+yebsap,state,BMU-5135,City of Saint George,1,postbreeding_migration,0.0703,0,1,0,21
+yebsap,state,BMU-5136,Devonshire,7,nonbreeding,0.0075,0,0.3696,0,35
+yebsap,state,BMU-5136,Devonshire,7,postbreeding_migration,0.0084,0,0.1265,0,21
+yebsap,state,BMU-5136,Devonshire,7,prebreeding_migration,0.0024,0,0.1265,0,14
+yebsap,state,BMU-5138,Paget,6,nonbreeding,0.0065,0,0.1219,0,35
+yebsap,state,BMU-5138,Paget,6,postbreeding_migration,0.0081,0,0.1219,0,21
+yebsap,state,BMU-5138,Paget,6,prebreeding_migration,0.0023,0,0.1219,0,14
+yebsap,state,BMU-5139,Pembroke,4,nonbreeding,0.0068,0,0.1264,0,35
+yebsap,state,BMU-5139,Pembroke,4,postbreeding_migration,0.0084,0,0.1264,0,21
+yebsap,state,BMU-5139,Pembroke,4,prebreeding_migration,0.0024,0,0.1264,0,14
+yebsap,state,BMU-5140,Saint George's,15,postbreeding_migration,0.0052,0,0.0747,0,21
+yebsap,state,BMU-5141,Sandys,6,postbreeding_migration,0.0039,0,0.1806,0,7
+yebsap,state,BMU-5142,Smith's,5,nonbreeding,1e-4,0,0.034,0,7
+yebsap,state,CAN-AB,Alberta,663753,breeding,0.1886,0.1223,0.8066,0.1337,91
+yebsap,state,CAN-AB,Alberta,663753,postbreeding_migration,0.0278,0.0332,0.4981,0.0525,35
+yebsap,state,CAN-AB,Alberta,663753,prebreeding_migration,0.1222,0.0743,0.8371,0.0845,21
+yebsap,state,CAN-BC,British Columbia,945611,breeding,0.0346,0.0332,0.2192,0.0538,91
+yebsap,state,CAN-BC,British Columbia,945611,nonbreeding,0,0,0,0,0
+yebsap,state,CAN-BC,British Columbia,945611,postbreeding_migration,0.0013,0.0023,0.0263,0.0041,28
+yebsap,state,CAN-BC,British Columbia,945611,prebreeding_migration,0.0317,0.0285,0.2141,0.032,21
+yebsap,state,CAN-MB,Manitoba,652605,breeding,0.1462,0.0902,0.6383,0.1006,91
+yebsap,state,CAN-MB,Manitoba,652605,postbreeding_migration,0.0285,0.0323,0.2786,0.0279,49
+yebsap,state,CAN-MB,Manitoba,652605,prebreeding_migration,0.0892,0.0516,0.4259,0.0409,35
+yebsap,state,CAN-NB,New Brunswick,72783,breeding,0.3895,0.0297,0.9064,0.0176,91
+yebsap,state,CAN-NB,New Brunswick,72783,postbreeding_migration,0.1234,0.0173,0.9087,0.0113,56
+yebsap,state,CAN-NB,New Brunswick,72783,prebreeding_migration,0.384,0.0274,0.903,0.0107,42
+yebsap,state,CAN-NS,Nova Scotia,55108,breeding,0.208,0.0138,0.6433,0.0109,91
+yebsap,state,CAN-NS,Nova Scotia,55108,postbreeding_migration,0.0327,0.004,0.5098,0.0055,56
+yebsap,state,CAN-NS,Nova Scotia,55108,prebreeding_migration,0.1942,0.012,0.6356,0.0065,42
+yebsap,state,CAN-NT,Northwest Territories,1348367,breeding,0.0143,0.0189,0.1186,0.04,77
+yebsap,state,CAN-NT,Northwest Territories,1348367,prebreeding_migration,0.0275,0.0341,0.134,0.0276,14
+yebsap,state,CAN-ON,Ontario,1077595,breeding,0.1771,0.1743,0.7361,0.185,91
+yebsap,state,CAN-ON,Ontario,1077595,nonbreeding,0,1e-4,0.0025,7e-4,0
+yebsap,state,CAN-ON,Ontario,1077595,postbreeding_migration,0.0615,0.1114,0.5645,0.0903,63
+yebsap,state,CAN-ON,Ontario,1077595,prebreeding_migration,0.1686,0.1554,0.6977,0.1068,49
+yebsap,state,CAN-PE,Prince Edward Island,5733,breeding,0.2042,0.0016,0.7463,0.0015,91
+yebsap,state,CAN-PE,Prince Edward Island,5733,postbreeding_migration,0.0344,5e-4,0.5032,7e-4,49
+yebsap,state,CAN-PE,Prince Edward Island,5733,prebreeding_migration,0.2771,0.0021,0.8105,0.001,35
+yebsap,state,CAN-QC,Québec,1505509,breeding,0.1257,0.1898,0.3832,0.1479,91
+yebsap,state,CAN-QC,Québec,1505509,nonbreeding,0,0,1e-4,0,0
+yebsap,state,CAN-QC,Québec,1505509,postbreeding_migration,0.0321,0.0892,0.277,0.068,56
+yebsap,state,CAN-QC,Québec,1505509,prebreeding_migration,0.111,0.1571,0.3435,0.0808,49
+yebsap,state,CAN-SK,Saskatchewan,650876,breeding,0.1484,0.0934,0.7226,0.1161,91
+yebsap,state,CAN-SK,Saskatchewan,650876,postbreeding_migration,0.0219,0.0253,0.3119,0.0319,42
+yebsap,state,CAN-SK,Saskatchewan,650876,prebreeding_migration,0.1016,0.0599,0.6892,0.0675,28
+yebsap,state,CAN-YT,Yukon,484476,breeding,0.003,0.0014,0.0549,0.0067,70
+yebsap,state,CAN-YT,Yukon,484476,postbreeding_migration,0,0,0,0,0
+yebsap,state,CAN-YT,Yukon,484476,prebreeding_migration,0.0064,0.0029,0.052,0.0038,14
+yebsap,state,CRI-1327,Cartago,3099,nonbreeding,0.0027,0,0.4187,4e-4,119
+yebsap,state,CRI-1327,Cartago,3099,postbreeding_migration,0,0,0.0124,0,14
+yebsap,state,CRI-1328,Heredia,2695,nonbreeding,0.0041,0,0.3594,3e-4,119
+yebsap,state,CRI-1328,Heredia,2695,postbreeding_migration,4e-4,0,0.093,0,14
+yebsap,state,CRI-1329,Limón,9367,nonbreeding,0.0015,0,0.2939,8e-4,119
+yebsap,state,CRI-1329,Limón,9367,postbreeding_migration,2e-4,0,0.0275,0,14
+yebsap,state,CRI-1329,Limón,9367,prebreeding_migration,0,0,9e-4,0,0
+yebsap,state,CRI-1330,Puntarenas,11131,nonbreeding,4e-4,0,0.1127,4e-4,112
+yebsap,state,CRI-1330,Puntarenas,11131,postbreeding_migration,0,0,0.0026,0,7
+yebsap,state,CRI-1331,San José,5007,nonbreeding,0.0022,0,0.2745,4e-4,112
+yebsap,state,CRI-1331,San José,5007,postbreeding_migration,0,0,0.0012,0,14
+yebsap,state,CRI-1331,San José,5007,prebreeding_migration,0,0,0.0017,0,21
+yebsap,state,CRI-1333,Alajuela,9570,nonbreeding,0.0021,0,0.1538,4e-4,119
+yebsap,state,CRI-1333,Alajuela,9570,postbreeding_migration,1e-4,0,0.035,1e-4,14
+yebsap,state,CRI-1334,Guanacaste,10281,nonbreeding,6e-4,0,0.0412,1e-4,119
+yebsap,state,CRI-1334,Guanacaste,10281,postbreeding_migration,0,0,0.0015,0,7
+yebsap,state,CUB-1319,Cienfuegos,4191,nonbreeding,0.187,0.0014,0.9765,0.0012,119
+yebsap,state,CUB-1319,Cienfuegos,4191,postbreeding_migration,0.0257,2e-4,0.9659,7e-4,21
+yebsap,state,CUB-1319,Cienfuegos,4191,prebreeding_migration,0.0503,2e-4,0.9534,7e-4,21
+yebsap,state,CUB-1320,Isla de la Juventud,2364,nonbreeding,0.0124,1e-4,0.545,7e-4,49
+yebsap,state,CUB-1320,Isla de la Juventud,2364,postbreeding_migration,0,0,0.0072,0,14
+yebsap,state,CUB-1320,Isla de la Juventud,2364,prebreeding_migration,1e-4,0,0.0162,0,7
+yebsap,state,CUB-1321,Pinar del Río,11083,nonbreeding,0.106,0.0024,0.873,0.0033,119
+yebsap,state,CUB-1321,Pinar del Río,11083,postbreeding_migration,0.0142,4e-4,0.866,0.0019,21
+yebsap,state,CUB-1321,Pinar del Río,11083,prebreeding_migration,0.0204,3e-4,0.8196,0.0017,28
+yebsap,state,CUB-1322,Sancti Spíritus,6693,nonbreeding,0.1427,0.0019,0.897,0.0019,119
+yebsap,state,CUB-1322,Sancti Spíritus,6693,postbreeding_migration,0.021,3e-4,0.8342,0.0011,21
+yebsap,state,CUB-1322,Sancti Spíritus,6693,prebreeding_migration,0.0512,4e-4,0.7874,0.001,28
+yebsap,state,CUB-1363,Ciego de Ávila,6896,nonbreeding,0.1139,0.0016,0.7955,0.0019,119
+yebsap,state,CUB-1363,Ciego de Ávila,6896,postbreeding_migration,0.0159,3e-4,0.7006,0.001,21
+yebsap,state,CUB-1363,Ciego de Ávila,6896,prebreeding_migration,0.0477,4e-4,0.6973,9e-4,21
+yebsap,state,CUB-1364,Camagüey,15543,nonbreeding,0.1146,0.0035,0.8164,0.0042,119
+yebsap,state,CUB-1364,Camagüey,15543,postbreeding_migration,0.0444,0.0015,0.7763,0.0023,14
+yebsap,state,CUB-1364,Camagüey,15543,prebreeding_migration,0.0535,9e-4,0.7326,0.0021,21
+yebsap,state,CUB-1365,Guantánamo,6217,nonbreeding,0.0845,0.001,0.9404,0.0018,119
+yebsap,state,CUB-1365,Guantánamo,6217,postbreeding_migration,0.032,4e-4,0.1881,2e-4,7
+yebsap,state,CUB-1365,Guantánamo,6217,prebreeding_migration,0.1455,0.001,0.808,9e-4,14
+yebsap,state,CUB-1366,Granma,8541,nonbreeding,0.0942,0.0015,0.9485,0.0024,119
+yebsap,state,CUB-1366,Granma,8541,postbreeding_migration,0.0973,0.0017,0.6399,0.001,14
+yebsap,state,CUB-1366,Granma,8541,prebreeding_migration,0.1283,0.0011,0.8061,0.0012,21
+yebsap,state,CUB-1367,Holguín,9222,nonbreeding,0.1025,0.0017,0.959,0.0027,119
+yebsap,state,CUB-1367,Holguín,9222,postbreeding_migration,0.1067,0.002,0.6647,0.0011,14
+yebsap,state,CUB-1367,Holguín,9222,prebreeding_migration,0.1644,0.0016,0.8422,0.0013,21
+yebsap,state,CUB-1368,Las Tunas,6515,nonbreeding,0.117,0.0014,0.9714,0.0019,119
+yebsap,state,CUB-1368,Las Tunas,6515,postbreeding_migration,0.1019,0.0013,0.8229,9e-4,14
+yebsap,state,CUB-1368,Las Tunas,6515,prebreeding_migration,0.132,9e-4,0.8785,0.001,21
+yebsap,state,CUB-1369,Santiago de Cuba,6170,nonbreeding,0.108,0.0012,0.9596,0.0018,119
+yebsap,state,CUB-1369,Santiago de Cuba,6170,postbreeding_migration,0.1399,0.0017,0.8159,9e-4,7
+yebsap,state,CUB-1369,Santiago de Cuba,6170,prebreeding_migration,0.1755,0.0011,0.8721,9e-4,21
+yebsap,state,CUB-1428,Ciudad de la Habana,702,nonbreeding,0.2253,3e-4,0.887,2e-4,119
+yebsap,state,CUB-1428,Ciudad de la Habana,702,postbreeding_migration,0.0278,0,0.8764,1e-4,28
+yebsap,state,CUB-1428,Ciudad de la Habana,702,prebreeding_migration,0.0413,0,0.8555,1e-4,21
+yebsap,state,CUB-1429,Artemisa,2025,nonbreeding,0.1518,6e-4,0.8562,6e-4,119
+yebsap,state,CUB-1429,Artemisa,2025,postbreeding_migration,0.0189,1e-4,0.8562,3e-4,21
+yebsap,state,CUB-1429,Artemisa,2025,prebreeding_migration,0.0277,1e-4,0.8388,3e-4,35
+yebsap,state,CUB-1430,Matanzas,11762,nonbreeding,0.1418,0.0033,0.8769,0.0034,119
+yebsap,state,CUB-1430,Matanzas,11762,postbreeding_migration,0.02,5e-4,0.8513,0.0019,21
+yebsap,state,CUB-1430,Matanzas,11762,prebreeding_migration,0.0272,4e-4,0.7364,0.0016,21
+yebsap,state,CUB-1431,Villa Clara,8303,nonbreeding,0.1579,0.0027,0.8324,0.0023,119
+yebsap,state,CUB-1431,Villa Clara,8303,postbreeding_migration,0.0218,4e-4,0.8066,0.0013,21
+yebsap,state,CUB-1431,Villa Clara,8303,prebreeding_migration,0.0461,4e-4,0.7843,0.0012,28
+yebsap,state,CUB-5489,Mayabeque,3768,nonbreeding,0.1848,0.0012,0.9677,0.0011,119
+yebsap,state,CUB-5489,Mayabeque,3768,postbreeding_migration,0.0249,2e-4,0.9612,6e-4,21
+yebsap,state,CUB-5489,Mayabeque,3768,prebreeding_migration,0.035,1e-4,0.9634,6e-4,21
+yebsap,state,CYM-001,Cayman Islands,309,nonbreeding,0.0279,0,0.4956,1e-4,119
+yebsap,state,CYM-001,Cayman Islands,309,postbreeding_migration,0.0058,0,0.0708,0,7
+yebsap,state,CYM-001,Cayman Islands,309,prebreeding_migration,0.0046,0,0.0708,0,14
+yebsap,state,GTM-1942,Baja Verapaz,2880,nonbreeding,0.0169,1e-4,0.7258,6e-4,119
+yebsap,state,GTM-1942,Baja Verapaz,2880,postbreeding_migration,0.0021,0,0.5759,3e-4,14
+yebsap,state,GTM-1942,Baja Verapaz,2880,prebreeding_migration,0.0027,0,0.5775,3e-4,7
+yebsap,state,GTM-1943,Huehuetenango,7293,nonbreeding,0.0266,3e-4,0.7846,0.0016,119
+yebsap,state,GTM-1943,Huehuetenango,7293,postbreeding_migration,0.0036,0,0.5965,7e-4,14
+yebsap,state,GTM-1943,Huehuetenango,7293,prebreeding_migration,0.0022,0,0.3719,4e-4,14
+yebsap,state,GTM-1944,Petén,36060,nonbreeding,0.003,2e-4,0.2406,0.0024,84
+yebsap,state,GTM-1944,Petén,36060,postbreeding_migration,1e-4,0,0.0256,1e-4,14
+yebsap,state,GTM-1944,Petén,36060,prebreeding_migration,0,0,0.0036,0,14
+yebsap,state,GTM-1945,Quezaltenango,1915,nonbreeding,0.0152,0,0.575,3e-4,119
+yebsap,state,GTM-1945,Quezaltenango,1915,postbreeding_migration,0.0024,0,0.4602,1e-4,14
+yebsap,state,GTM-1945,Quezaltenango,1915,prebreeding_migration,0.0019,0,0.3512,1e-4,14
+yebsap,state,GTM-1946,Retalhuleu,1994,nonbreeding,5e-4,0,0.0358,0,112
+yebsap,state,GTM-1946,Retalhuleu,1994,postbreeding_migration,0,0,0.0121,0,14
+yebsap,state,GTM-1946,Retalhuleu,1994,prebreeding_migration,0,0,0.0047,0,7
+yebsap,state,GTM-1947,San Marcos,3626,nonbreeding,0.0213,1e-4,0.6934,7e-4,119
+yebsap,state,GTM-1947,San Marcos,3626,postbreeding_migration,0.0033,0,0.545,3e-4,14
+yebsap,state,GTM-1947,San Marcos,3626,prebreeding_migration,0.0026,0,0.4515,3e-4,14
+yebsap,state,GTM-1948,Alta Verapaz,9913,nonbreeding,0.0122,2e-4,0.5794,0.0016,119
+yebsap,state,GTM-1948,Alta Verapaz,9913,postbreeding_migration,5e-4,0,0.2219,4e-4,14
+yebsap,state,GTM-1948,Alta Verapaz,9913,prebreeding_migration,0.0012,0,0.257,4e-4,7
+yebsap,state,GTM-1949,Chimaltenango,1733,nonbreeding,0.0193,1e-4,0.7968,4e-4,119
+yebsap,state,GTM-1949,Chimaltenango,1733,postbreeding_migration,0.0031,0,0.7253,2e-4,21
+yebsap,state,GTM-1949,Chimaltenango,1733,prebreeding_migration,0.0033,0,0.5529,1e-4,14
+yebsap,state,GTM-1950,Escuintla,4799,nonbreeding,0.0013,0,0.0824,1e-4,119
+yebsap,state,GTM-1950,Escuintla,4799,postbreeding_migration,2e-4,0,0.0643,1e-4,21
+yebsap,state,GTM-1950,Escuintla,4799,prebreeding_migration,2e-4,0,0.0382,0,7
+yebsap,state,GTM-1951,Guatemala,2208,nonbreeding,0.007,0,0.6374,4e-4,119
+yebsap,state,GTM-1951,Guatemala,2208,postbreeding_migration,0.0015,0,0.4506,2e-4,21
+yebsap,state,GTM-1951,Guatemala,2208,prebreeding_migration,0.0011,0,0.241,1e-4,7
+yebsap,state,GTM-1952,Suchitepéquez,2307,nonbreeding,0.0026,0,0.1363,1e-4,119
+yebsap,state,GTM-1952,Suchitepéquez,2307,postbreeding_migration,3e-4,0,0.1028,0,14
+yebsap,state,GTM-1952,Suchitepéquez,2307,prebreeding_migration,2e-4,0,0.0517,0,7
+yebsap,state,GTM-1953,Sacatepéquez,683,nonbreeding,0.0106,0,0.728,1e-4,119
+yebsap,state,GTM-1953,Sacatepéquez,683,postbreeding_migration,0.0026,0,0.6213,1e-4,21
+yebsap,state,GTM-1953,Sacatepéquez,683,prebreeding_migration,0.0018,0,0.3659,0,7
+yebsap,state,GTM-1954,Sololá,1130,nonbreeding,0.0213,0,0.7932,2e-4,119
+yebsap,state,GTM-1954,Sololá,1130,postbreeding_migration,0.0034,0,0.694,1e-4,14
+yebsap,state,GTM-1954,Sololá,1130,prebreeding_migration,0.0036,0,0.6426,1e-4,14
+yebsap,state,GTM-1955,Totonicapán,1304,nonbreeding,0.0181,0,0.893,3e-4,119
+yebsap,state,GTM-1955,Totonicapán,1304,postbreeding_migration,0.004,0,0.8026,2e-4,14
+yebsap,state,GTM-1955,Totonicapán,1304,prebreeding_migration,0.0029,0,0.4988,1e-4,7
+yebsap,state,GTM-1956,El Progreso,1919,nonbreeding,0.0104,0,0.3725,2e-4,119
+yebsap,state,GTM-1956,El Progreso,1919,postbreeding_migration,9e-4,0,0.2703,1e-4,14
+yebsap,state,GTM-1956,El Progreso,1919,prebreeding_migration,0.0015,0,0.3191,1e-4,7
+yebsap,state,GTM-1957,Santa Rosa,3094,nonbreeding,0.0084,0,0.3816,3e-4,119
+yebsap,state,GTM-1957,Santa Rosa,3094,postbreeding_migration,8e-4,0,0.2599,1e-4,14
+yebsap,state,GTM-1957,Santa Rosa,3094,prebreeding_migration,0.0011,0,0.252,1e-4,7
+yebsap,state,GTM-1959,Izabal,8636,nonbreeding,0.009,1e-4,0.3673,9e-4,112
+yebsap,state,GTM-1959,Izabal,8636,postbreeding_migration,3e-4,0,0.0861,1e-4,14
+yebsap,state,GTM-1959,Izabal,8636,prebreeding_migration,4e-4,0,0.1098,1e-4,7
+yebsap,state,GTM-1960,Chiquimula,2374,nonbreeding,0.0062,0,0.3656,2e-4,119
+yebsap,state,GTM-1960,Chiquimula,2374,postbreeding_migration,2e-4,0,0.0808,0,7
+yebsap,state,GTM-1960,Chiquimula,2374,prebreeding_migration,0.0012,0,0.2984,1e-4,14
+yebsap,state,GTM-1961,Jalapa,1988,nonbreeding,0.0101,0,0.5763,3e-4,119
+yebsap,state,GTM-1961,Jalapa,1988,postbreeding_migration,0.0013,0,0.385,1e-4,14
+yebsap,state,GTM-1961,Jalapa,1988,prebreeding_migration,0.002,0,0.4702,1e-4,7
+yebsap,state,GTM-1962,Jutiapa,3323,nonbreeding,0.0023,0,0.167,2e-4,119
+yebsap,state,GTM-1962,Jutiapa,3323,postbreeding_migration,2e-4,0,0.0809,0,14
+yebsap,state,GTM-1962,Jutiapa,3323,prebreeding_migration,5e-4,0,0.122,1e-4,7
+yebsap,state,GTM-1963,Zacapa,2578,nonbreeding,0.0135,1e-4,0.4041,3e-4,119
+yebsap,state,GTM-1963,Zacapa,2578,postbreeding_migration,3e-4,0,0.1446,1e-4,7
+yebsap,state,GTM-1963,Zacapa,2578,prebreeding_migration,0.0015,0,0.3744,1e-4,7
+yebsap,state,GTM-3467,Quiché,7054,nonbreeding,0.0196,2e-4,0.7337,0.0014,119
+yebsap,state,GTM-3467,Quiché,7054,postbreeding_migration,0.0028,0,0.6092,7e-4,14
+yebsap,state,GTM-3467,Quiché,7054,prebreeding_migration,0.0021,0,0.3835,4e-4,7
+yebsap,state,HND-637,Atlántida,4519,nonbreeding,0.0219,2e-4,0.5737,8e-4,119
+yebsap,state,HND-637,Atlántida,4519,postbreeding_migration,2e-4,0,0.0434,0,14
+yebsap,state,HND-637,Atlántida,4519,prebreeding_migration,6e-4,0,0.0853,1e-4,14
+yebsap,state,HND-638,Colón,8305,nonbreeding,0.0187,3e-4,0.5422,0.0013,119
+yebsap,state,HND-638,Colón,8305,postbreeding_migration,0,0,0.0039,0,7
+yebsap,state,HND-638,Colón,8305,prebreeding_migration,3e-4,0,0.0457,1e-4,14
+yebsap,state,HND-639,Francisco Morazán,8588,nonbreeding,0.0084,1e-4,0.3698,9e-4,119
+yebsap,state,HND-639,Francisco Morazán,8588,postbreeding_migration,0,0,0.0128,0,7
+yebsap,state,HND-639,Francisco Morazán,8588,prebreeding_migration,7e-4,0,0.074,1e-4,14
+yebsap,state,HND-640,Gracias a Dios,16043,nonbreeding,0.0035,1e-4,0.2906,0.0014,119
+yebsap,state,HND-641,Islas de la Bahía,257,nonbreeding,0.0449,1e-4,0.913,3e-4,119
+yebsap,state,HND-641,Islas de la Bahía,257,postbreeding_migration,0.003,0,0.2522,0,14
+yebsap,state,HND-641,Islas de la Bahía,257,prebreeding_migration,0.0017,0,0.1652,0,14
+yebsap,state,HND-642,Olancho,23894,nonbreeding,0.0129,5e-4,0.4053,0.0027,119
+yebsap,state,HND-642,Olancho,23894,postbreeding_migration,0,0,0.0123,0,7
+yebsap,state,HND-642,Olancho,23894,prebreeding_migration,3e-4,0,0.0379,1e-4,14
+yebsap,state,HND-643,Yoro,7769,nonbreeding,0.0153,2e-4,0.4514,0.001,119
+yebsap,state,HND-643,Yoro,7769,postbreeding_migration,2e-4,0,0.0502,1e-4,7
+yebsap,state,HND-643,Yoro,7769,prebreeding_migration,7e-4,0,0.093,1e-4,14
+yebsap,state,HND-645,Valle,1596,nonbreeding,1e-4,0,0.0267,0,77
+yebsap,state,HND-646,Comayagua,5103,nonbreeding,0.0096,1e-4,0.3791,5e-4,119
+yebsap,state,HND-646,Comayagua,5103,postbreeding_migration,1e-4,0,0.0233,0,7
+yebsap,state,HND-646,Comayagua,5103,prebreeding_migration,7e-4,0,0.1032,1e-4,14
+yebsap,state,HND-647,Cortés,3971,nonbreeding,0.0114,1e-4,0.4039,5e-4,119
+yebsap,state,HND-647,Cortés,3971,postbreeding_migration,3e-4,0,0.0391,0,14
+yebsap,state,HND-647,Cortés,3971,prebreeding_migration,4e-4,0,0.0731,0,14
+yebsap,state,HND-648,Intibucá,3138,nonbreeding,0.02,1e-4,0.6658,6e-4,119
+yebsap,state,HND-648,Intibucá,3138,postbreeding_migration,1e-4,0,0.0603,0,7
+yebsap,state,HND-648,Intibucá,3138,prebreeding_migration,0.002,0,0.3222,2e-4,14
+yebsap,state,HND-649,La Paz,2602,nonbreeding,0.0132,1e-4,0.6133,4e-4,119
+yebsap,state,HND-649,La Paz,2602,postbreeding_migration,0,0,0.0101,0,7
+yebsap,state,HND-649,La Paz,2602,prebreeding_migration,0.001,0,0.1477,1e-4,14
+yebsap,state,HND-650,Santa Bárbara,5085,nonbreeding,0.0138,1e-4,0.5662,8e-4,119
+yebsap,state,HND-650,Santa Bárbara,5085,postbreeding_migration,1e-4,0,0.0257,0,7
+yebsap,state,HND-650,Santa Bárbara,5085,prebreeding_migration,0.001,0,0.2239,2e-4,14
+yebsap,state,HND-651,Copán,3283,nonbreeding,0.0073,0,0.5456,5e-4,119
+yebsap,state,HND-651,Copán,3283,postbreeding_migration,0,0,0.0204,0,7
+yebsap,state,HND-651,Copán,3283,prebreeding_migration,9e-4,0,0.2422,1e-4,7
+yebsap,state,HND-652,Lempira,4295,nonbreeding,0.0155,1e-4,0.6903,8e-4,119
+yebsap,state,HND-652,Lempira,4295,postbreeding_migration,1e-4,0,0.0414,0,7
+yebsap,state,HND-652,Lempira,4295,prebreeding_migration,0.0014,0,0.3023,2e-4,14
+yebsap,state,HND-653,Ocotepeque,1680,nonbreeding,0.0169,0,0.7679,4e-4,119
+yebsap,state,HND-653,Ocotepeque,1680,postbreeding_migration,3e-4,0,0.1489,0,7
+yebsap,state,HND-653,Ocotepeque,1680,prebreeding_migration,0.0019,0,0.4485,1e-4,14
+yebsap,state,HND-661,Choluteca,4482,nonbreeding,3e-4,0,0.0257,0,105
+yebsap,state,HND-661,Choluteca,4482,prebreeding_migration,0,0,0.0037,0,7
+yebsap,state,HND-662,El Paraíso,7626,nonbreeding,0.0043,1e-4,0.2296,5e-4,119
+yebsap,state,HND-662,El Paraíso,7626,postbreeding_migration,0,0,0.0055,0,7
+yebsap,state,HND-662,El Paraíso,7626,prebreeding_migration,1e-4,0,0.015,0,14
+yebsap,state,HTI-1359,Grand'Anse,1882,nonbreeding,0.0031,0,0.2876,2e-4,49
+yebsap,state,HTI-1360,Nippes,1203,nonbreeding,4e-4,0,0.0269,0,21
+yebsap,state,HTI-1361,Nord-Ouest,2100,nonbreeding,1e-4,0,0.0087,0,7
+yebsap,state,HTI-1362,Sud,2668,nonbreeding,0.0035,0,0.2337,2e-4,49
+yebsap,state,HTI-1384,L'Artibonite,4955,nonbreeding,1e-4,0,0.0138,0,14
+yebsap,state,HTI-1385,Centre,3479,nonbreeding,0,0,8e-4,0,7
+yebsap,state,HTI-1387,Nord,2050,nonbreeding,4e-4,0,0.0346,0,14
+yebsap,state,HTI-1388,Ouest,4968,nonbreeding,4e-4,0,0.0293,0,21
+yebsap,state,HTI-1389,Sud-Est,2028,nonbreeding,0,0,0.0035,0,7
+yebsap,state,JAM-1370,Clarendon,1202,nonbreeding,0.0015,0,0.1652,1e-4,49
+yebsap,state,JAM-1370,Clarendon,1202,prebreeding_migration,0.0042,0,0.0529,0,7
+yebsap,state,JAM-1371,Hanover,490,nonbreeding,7e-4,0,0.1143,0,35
+yebsap,state,JAM-1371,Hanover,490,prebreeding_migration,6e-4,0,0.0088,0,7
+yebsap,state,JAM-1372,Manchester,817,nonbreeding,0.0011,0,0.2192,1e-4,35
+yebsap,state,JAM-1373,Saint Elizabeth,1155,nonbreeding,4e-4,0,0.0582,0,28
+yebsap,state,JAM-1373,Saint Elizabeth,1155,prebreeding_migration,0.0015,0,0.0205,0,7
+yebsap,state,JAM-1374,Saint James,663,nonbreeding,0.0011,0,0.1677,0,28
+yebsap,state,JAM-1374,Saint James,663,prebreeding_migration,0.0044,0,0.0566,0,7
+yebsap,state,JAM-1375,Trelawny,912,nonbreeding,7e-4,0,0.1677,0,28
+yebsap,state,JAM-1376,Westmoreland,743,nonbreeding,7e-4,0,0.1095,0,28
+yebsap,state,JAM-1376,Westmoreland,743,prebreeding_migration,0.0012,0,0.0156,0,7
+yebsap,state,JAM-1377,Kingston,30,nonbreeding,7e-4,0,0.0541,0,21
+yebsap,state,JAM-1378,Portland,829,nonbreeding,0.0144,0,0.6166,2e-4,70
+yebsap,state,JAM-1378,Portland,829,prebreeding_migration,0.0137,0,0.1613,0,7
+yebsap,state,JAM-1379,Saint Ann,1251,nonbreeding,0.0013,0,0.1952,1e-4,49
+yebsap,state,JAM-1379,Saint Ann,1251,prebreeding_migration,0.0019,0,0.0245,0,7
+yebsap,state,JAM-1380,Saint Catherine,1155,nonbreeding,0.0026,0,0.309,1e-4,56
+yebsap,state,JAM-1380,Saint Catherine,1155,prebreeding_migration,0.0104,0,0.1295,0,7
+yebsap,state,JAM-1381,Saint Mary,635,nonbreeding,0.0051,0,0.4662,1e-4,56
+yebsap,state,JAM-1381,Saint Mary,635,prebreeding_migration,0.0272,0,0.3145,0,7
+yebsap,state,JAM-1382,Saint Andrew,439,nonbreeding,0.0128,0,0.4383,1e-4,70
+yebsap,state,JAM-1382,Saint Andrew,439,prebreeding_migration,0.0236,0,0.2601,0,7
+yebsap,state,JAM-1383,Saint Thomas,714,nonbreeding,0.0115,0,0.4998,1e-4,63
+yebsap,state,JAM-1383,Saint Thomas,714,prebreeding_migration,0.0209,0,0.2619,0,7
+yebsap,state,MEX-AG,Aguascalientes,5548,nonbreeding,0.0349,3e-4,0.7388,0.0011,119
+yebsap,state,MEX-AG,Aguascalientes,5548,postbreeding_migration,0.0037,0,0.3951,4e-4,28
+yebsap,state,MEX-AG,Aguascalientes,5548,prebreeding_migration,0.002,0,0.2784,2e-4,14
+yebsap,state,MEX-CH,Chihuahua,247982,nonbreeding,4e-4,2e-4,0.0452,0.0031,49
+yebsap,state,MEX-CH,Chihuahua,247982,postbreeding_migration,0.0015,7e-4,0.1159,0.0046,35
+yebsap,state,MEX-CH,Chihuahua,247982,prebreeding_migration,0,0,3e-4,0,0
+yebsap,state,MEX-CL,Colima,5878,nonbreeding,0.0116,1e-4,0.3137,5e-4,119
+yebsap,state,MEX-CL,Colima,5878,postbreeding_migration,0.0092,1e-4,0.2833,3e-4,21
+yebsap,state,MEX-CL,Colima,5878,prebreeding_migration,0.0016,0,0.2417,2e-4,14
+yebsap,state,MEX-CM,Campeche,57142,nonbreeding,0.0045,4e-4,0.3314,0.0054,112
+yebsap,state,MEX-CM,Campeche,57142,postbreeding_migration,0,0,0.001,0,7
+yebsap,state,MEX-CM,Campeche,57142,prebreeding_migration,0.0016,1e-4,0.1589,0.0014,21
+yebsap,state,MEX-CO,Coahuila,150978,nonbreeding,0.0249,0.0062,0.6734,0.0279,119
+yebsap,state,MEX-CO,Coahuila,150978,postbreeding_migration,0.0115,0.0031,0.7081,0.0172,35
+yebsap,state,MEX-CO,Coahuila,150978,prebreeding_migration,0.001,1e-4,0.1027,0.0024,42
+yebsap,state,MEX-CS,Chiapas,73384,nonbreeding,0.0063,8e-4,0.2645,0.0054,119
+yebsap,state,MEX-CS,Chiapas,73384,postbreeding_migration,6e-4,1e-4,0.1138,0.0014,14
+yebsap,state,MEX-CS,Chiapas,73384,prebreeding_migration,2e-4,0,0.0239,3e-4,21
+yebsap,state,MEX-DF,Distrito Federal,1375,nonbreeding,0.1067,2e-4,0.9875,4e-4,119
+yebsap,state,MEX-DF,Distrito Federal,1375,postbreeding_migration,0.0133,0,0.9161,2e-4,35
+yebsap,state,MEX-DF,Distrito Federal,1375,prebreeding_migration,0.0121,0,0.5497,1e-4,35
+yebsap,state,MEX-DG,Durango,121025,nonbreeding,0.0118,0.0024,0.5186,0.0172,119
+yebsap,state,MEX-DG,Durango,121025,postbreeding_migration,0.0035,8e-4,0.0966,0.0019,28
+yebsap,state,MEX-DG,Durango,121025,prebreeding_migration,0.0014,2e-4,0.1637,0.003,14
+yebsap,state,MEX-GJ,Guanajuato,30419,nonbreeding,0.0452,0.0023,0.7794,0.0065,119
+yebsap,state,MEX-GJ,Guanajuato,30419,postbreeding_migration,0.005,3e-4,0.4703,0.0023,21
+yebsap,state,MEX-GJ,Guanajuato,30419,prebreeding_migration,0.0028,1e-4,0.2505,0.0012,21
+yebsap,state,MEX-GR,Guerrero,64695,nonbreeding,0.0244,0.0027,0.4918,0.0089,119
+yebsap,state,MEX-GR,Guerrero,64695,postbreeding_migration,0.003,4e-4,0.3807,0.004,21
+yebsap,state,MEX-GR,Guerrero,64695,prebreeding_migration,7e-4,0,0.0875,9e-4,21
+yebsap,state,MEX-HG,Hidalgo,21304,nonbreeding,0.0784,0.0028,0.9321,0.0055,119
+yebsap,state,MEX-HG,Hidalgo,21304,postbreeding_migration,0.0078,3e-4,0.687,0.0024,28
+yebsap,state,MEX-HG,Hidalgo,21304,prebreeding_migration,0.007,1e-4,0.3427,0.0011,28
+yebsap,state,MEX-JA,Jalisco,80000,nonbreeding,0.0357,0.0047,0.7161,0.0158,119
+yebsap,state,MEX-JA,Jalisco,80000,postbreeding_migration,0.014,0.002,0.4716,0.0061,28
+yebsap,state,MEX-JA,Jalisco,80000,prebreeding_migration,0.0042,3e-4,0.4661,0.0057,21
+yebsap,state,MEX-MI,Michoacán,58881,nonbreeding,0.0404,0.004,0.7213,0.0118,119
+yebsap,state,MEX-MI,Michoacán,58881,postbreeding_migration,0.0076,8e-4,0.5702,0.0054,21
+yebsap,state,MEX-MI,Michoacán,58881,prebreeding_migration,0.0045,2e-4,0.4105,0.0037,28
+yebsap,state,MEX-MO,Morelos,5080,nonbreeding,0.0239,2e-4,0.4326,6e-4,119
+yebsap,state,MEX-MO,Morelos,5080,postbreeding_migration,0.0021,0,0.2418,2e-4,28
+yebsap,state,MEX-MO,Morelos,5080,prebreeding_migration,0.0016,0,0.0822,1e-4,28
+yebsap,state,MEX-MX,México,21826,nonbreeding,0.0651,0.0024,0.865,0.0052,119
+yebsap,state,MEX-MX,México,21826,postbreeding_migration,0.0076,3e-4,0.6976,0.0024,35
+yebsap,state,MEX-MX,México,21826,prebreeding_migration,0.0068,1e-4,0.3173,0.0011,35
+yebsap,state,MEX-NA,Nayarit,27165,nonbreeding,0.0277,0.0013,0.5641,0.0044,119
+yebsap,state,MEX-NA,Nayarit,27165,postbreeding_migration,0.0167,9e-4,0.4492,0.0021,28
+yebsap,state,MEX-NA,Nayarit,27165,prebreeding_migration,0.0044,1e-4,0.4916,0.0022,21
+yebsap,state,MEX-NL,Nuevo León,64984,nonbreeding,0.0551,0.0059,0.8674,0.0155,119
+yebsap,state,MEX-NL,Nuevo León,64984,postbreeding_migration,0.0123,0.0014,0.6991,0.0073,28
+yebsap,state,MEX-NL,Nuevo León,64984,prebreeding_migration,0.0042,3e-4,0.1708,0.0017,35
+yebsap,state,MEX-OA,Oaxaca,92157,nonbreeding,0.0302,0.0047,0.4668,0.0121,119
+yebsap,state,MEX-OA,Oaxaca,92157,postbreeding_migration,0.0021,4e-4,0.2377,0.0036,21
+yebsap,state,MEX-OA,Oaxaca,92157,prebreeding_migration,0.0022,2e-4,0.1305,0.0019,21
+yebsap,state,MEX-PU,Puebla,34591,nonbreeding,0.0515,0.003,0.786,0.0075,119
+yebsap,state,MEX-PU,Puebla,34591,postbreeding_migration,0.005,3e-4,0.5235,0.0029,28
+yebsap,state,MEX-PU,Puebla,34591,prebreeding_migration,0.0036,1e-4,0.1557,8e-4,28
+yebsap,state,MEX-QR,Quintana Roo,43875,nonbreeding,0.0207,0.0016,0.7073,0.0092,119
+yebsap,state,MEX-QR,Quintana Roo,43875,postbreeding_migration,2e-4,0,0.0153,1e-4,21
+yebsap,state,MEX-QR,Quintana Roo,43875,prebreeding_migration,0.0017,1e-4,0.3069,0.0022,14
+yebsap,state,MEX-QT,Querétaro,11700,nonbreeding,0.0826,0.0016,0.9381,0.003,119
+yebsap,state,MEX-QT,Querétaro,11700,postbreeding_migration,0.0093,2e-4,0.7979,0.0015,35
+yebsap,state,MEX-QT,Querétaro,11700,prebreeding_migration,0.0086,1e-4,0.4558,8e-4,21
+yebsap,state,MEX-SI,Sinaloa,57716,nonbreeding,3e-4,0,0.0297,5e-4,35
+yebsap,state,MEX-SI,Sinaloa,57716,prebreeding_migration,0,0,0.0042,0,7
+yebsap,state,MEX-SL,San Luis Potosí,64202,nonbreeding,0.0565,0.006,0.826,0.0146,119
+yebsap,state,MEX-SL,San Luis Potosí,64202,postbreeding_migration,0.0052,6e-4,0.46,0.0047,28
+yebsap,state,MEX-SL,San Luis Potosí,64202,prebreeding_migration,0.0044,3e-4,0.28,0.0028,21
+yebsap,state,MEX-SO,Sonora,179183,nonbreeding,0,0,0.0051,3e-4,21
+yebsap,state,MEX-SO,Sonora,179183,postbreeding_migration,1e-4,0,0.011,3e-4,21
+yebsap,state,MEX-TB,Tabasco,24056,nonbreeding,1e-4,0,0.004,0,56
+yebsap,state,MEX-TB,Tabasco,24056,prebreeding_migration,0,0,4e-4,0,0
+yebsap,state,MEX-TL,Tlaxcala,3873,nonbreeding,0.044,3e-4,0.8705,9e-4,119
+yebsap,state,MEX-TL,Tlaxcala,3873,postbreeding_migration,0.0044,0,0.5137,3e-4,35
+yebsap,state,MEX-TL,Tlaxcala,3873,prebreeding_migration,0.0017,0,0.0649,0,28
+yebsap,state,MEX-TM,Tamaulipas,79583,nonbreeding,0.0445,0.0059,0.677,0.0149,119
+yebsap,state,MEX-TM,Tamaulipas,79583,postbreeding_migration,0.0035,5e-4,0.2387,0.0031,28
+yebsap,state,MEX-TM,Tamaulipas,79583,prebreeding_migration,0.003,2e-4,0.1313,0.0016,28
+yebsap,state,MEX-VE,Veracruz,70966,nonbreeding,0.0117,0.0014,0.2126,0.0043,119
+yebsap,state,MEX-VE,Veracruz,70966,postbreeding_migration,8e-4,1e-4,0.0668,8e-4,14
+yebsap,state,MEX-VE,Veracruz,70966,prebreeding_migration,0.0011,1e-4,0.0516,6e-4,21
+yebsap,state,MEX-YU,Yucatán,38385,nonbreeding,0.0211,0.0014,0.7164,0.0077,119
+yebsap,state,MEX-YU,Yucatán,38385,postbreeding_migration,1e-4,0,0.0243,2e-4,7
+yebsap,state,MEX-YU,Yucatán,38385,prebreeding_migration,0.0064,2e-4,0.6254,0.0038,28
+yebsap,state,MEX-ZA,Zacatecas,74726,nonbreeding,0.0347,0.0043,0.7457,0.0153,119
+yebsap,state,MEX-ZA,Zacatecas,74726,postbreeding_migration,0.0079,0.0011,0.5566,0.0067,28
+yebsap,state,MEX-ZA,Zacatecas,74726,prebreeding_migration,0.0028,2e-4,0.3468,0.004,21
+yebsap,state,NIC-4800,Rio San Juan,9677,nonbreeding,0.001,0,0.1328,3e-4,91
+yebsap,state,NIC-656,Jinotega,9454,nonbreeding,5e-4,0,0.0975,3e-4,56
+yebsap,state,NIC-657,Atlántico Norte,32412,nonbreeding,1e-4,0,0.0161,1e-4,42
+yebsap,state,NIC-658,León,5328,nonbreeding,0,0,0.0046,0,42
+yebsap,state,NIC-663,Chinandega,4799,nonbreeding,0,0,1e-4,0,14
+yebsap,state,NIC-664,Estelí,2359,nonbreeding,3e-4,0,0.0352,0,77
+yebsap,state,NIC-665,Madriz,1603,nonbreeding,0.001,0,0.0734,0,91
+yebsap,state,NIC-666,Matagalpa,8607,nonbreeding,0,0,6e-4,0,7
+yebsap,state,NIC-667,Nueva Segovia,3322,nonbreeding,0.0034,0,0.1485,1e-4,105
+yebsap,state,NIC-667,Nueva Segovia,3322,prebreeding_migration,1e-4,0,0.0124,0,7
+yebsap,state,PAN-1332,Chiriquí,6693,nonbreeding,1e-4,0,0.0515,1e-4,70
+yebsap,state,PAN-1332,Chiriquí,6693,prebreeding_migration,0,0,0.0018,0,7
+yebsap,state,PAN-1336,Coclé,4868,nonbreeding,0,0,0.0247,0,28
+yebsap,state,PAN-1337,Colón,5100,nonbreeding,3e-4,0,0.1543,3e-4,63
+yebsap,state,PAN-1340,Panama,11686,nonbreeding,1e-4,0,0.0453,2e-4,56
+yebsap,state,PAN-1341,Veraguas,11105,nonbreeding,0,0,0.0027,0,21
+yebsap,state,PAN-1419,Kuna Yala,2544,nonbreeding,0,0,0.0017,0,7
+yebsap,state,PAN-1958,Bocas del Toro,4679,nonbreeding,7e-4,0,0.4052,6e-4,105
+yebsap,state,PAN-1958,Bocas del Toro,4679,prebreeding_migration,1e-4,0,0.0839,1e-4,14
+yebsap,state,PAN-3454,Ngöbe Buglé,6133,nonbreeding,3e-4,0,0.2271,4e-4,84
+yebsap,state,PAN-3454,Ngöbe Buglé,6133,prebreeding_migration,0,0,0.0155,0,7
+yebsap,state,SLV-1343,Ahuachapán,1226,nonbreeding,0.0025,0,0.1723,1e-4,112
+yebsap,state,SLV-1343,Ahuachapán,1226,postbreeding_migration,0,0,0.0069,0,7
+yebsap,state,SLV-1343,Ahuachapán,1226,prebreeding_migration,4e-4,0,0.1035,0,7
+yebsap,state,SLV-1344,Cabañas,1079,nonbreeding,0,0,0.0328,0,7
+yebsap,state,SLV-1345,Cuscatlán,759,nonbreeding,8e-4,0,0.0618,0,98
+yebsap,state,SLV-1345,Cuscatlán,759,prebreeding_migration,0,0,0.0077,0,7
+yebsap,state,SLV-1346,La Libertad,1707,nonbreeding,0.002,0,0.1259,1e-4,119
+yebsap,state,SLV-1346,La Libertad,1707,postbreeding_migration,0,0,0.0047,0,7
+yebsap,state,SLV-1346,La Libertad,1707,prebreeding_migration,2e-4,0,0.0451,0,7
+yebsap,state,SLV-1347,La Paz,1151,nonbreeding,9e-4,0,0.0352,0,119
+yebsap,state,SLV-1347,La Paz,1151,prebreeding_migration,1e-4,0,0.0198,0,7
+yebsap,state,SLV-1348,Sonsonate,1251,nonbreeding,0.0018,0,0.1113,0,119
+yebsap,state,SLV-1348,Sonsonate,1251,postbreeding_migration,0,0,0.0141,0,7
+yebsap,state,SLV-1348,Sonsonate,1251,prebreeding_migration,2e-4,0,0.0432,0,7
+yebsap,state,SLV-1349,San Salvador,873,nonbreeding,9e-4,0,0.0824,0,112
+yebsap,state,SLV-1349,San Salvador,873,prebreeding_migration,0,0,0.009,0,7
+yebsap,state,SLV-1350,La Unión,1891,nonbreeding,2e-4,0,0.0456,0,105
+yebsap,state,SLV-1351,Morazán,1304,nonbreeding,0.001,0,0.1929,1e-4,105
+yebsap,state,SLV-1352,San Miguel,2097,nonbreeding,6e-4,0,0.0441,0,112
+yebsap,state,SLV-1352,San Miguel,2097,postbreeding_migration,0,0,0.0042,0,7
+yebsap,state,SLV-1353,San Vicente,1182,nonbreeding,1e-4,0,0.0105,0,98
+yebsap,state,SLV-1353,San Vicente,1182,prebreeding_migration,0,0,0.001,0,7
+yebsap,state,SLV-1354,Usulután,2058,nonbreeding,3e-4,0,0.0371,0,91
+yebsap,state,SLV-1357,Chalatenango,1857,nonbreeding,0.0065,0,0.2049,1e-4,119
+yebsap,state,SLV-1357,Chalatenango,1857,postbreeding_migration,0,0,0.0255,0,7
+yebsap,state,SLV-1357,Chalatenango,1857,prebreeding_migration,9e-4,0,0.1863,1e-4,14
+yebsap,state,SLV-1358,Santa Ana,2104,nonbreeding,0.003,0,0.1229,1e-4,119
+yebsap,state,SLV-1358,Santa Ana,2104,postbreeding_migration,1e-4,0,0.0299,0,7
+yebsap,state,SLV-1358,Santa Ana,2104,prebreeding_migration,4e-4,0,0.0773,0,14
+yebsap,state,USA-AL,Alabama,133835,nonbreeding,0.3168,0.0707,0.9951,0.0368,119
+yebsap,state,USA-AL,Alabama,133835,postbreeding_migration,0.1402,0.0343,0.9932,0.0215,49
+yebsap,state,USA-AL,Alabama,133835,prebreeding_migration,0.0448,0.0056,0.9538,0.0197,56
+yebsap,state,USA-AR,Arkansas,137542,nonbreeding,0.2108,0.0479,0.8538,0.0322,119
+yebsap,state,USA-AR,Arkansas,137542,postbreeding_migration,0.0953,0.0238,0.8428,0.0186,49
+yebsap,state,USA-AR,Arkansas,137542,prebreeding_migration,0.0597,0.0076,0.8532,0.018,49
+yebsap,state,USA-AZ,Arizona,295066,nonbreeding,1e-4,0,0.0036,3e-4,21
+yebsap,state,USA-AZ,Arizona,295066,postbreeding_migration,0,0,0.0054,3e-4,21
+yebsap,state,USA-AZ,Arizona,295066,prebreeding_migration,0,0,1e-4,0,0
+yebsap,state,USA-CA,California,409743,nonbreeding,0,0,0.0011,1e-4,0
+yebsap,state,USA-CA,California,409743,postbreeding_migration,0,0,7e-4,0,0
+yebsap,state,USA-CA,California,409743,prebreeding_migration,0,0,3e-4,0,0
+yebsap,state,USA-CO,Colorado,269201,nonbreeding,0,0,3e-4,0,0
+yebsap,state,USA-CO,Colorado,269201,postbreeding_migration,0.0014,7e-4,0.1537,0.0066,21
+yebsap,state,USA-CO,Colorado,269201,prebreeding_migration,0,0,0.0019,1e-4,7
+yebsap,state,USA-CT,Connecticut,12705,breeding,0.1808,0.0024,0.4426,0.0015,91
+yebsap,state,USA-CT,Connecticut,12705,nonbreeding,0.1943,0.0043,0.9617,0.0035,119
+yebsap,state,USA-CT,Connecticut,12705,postbreeding_migration,0.1758,0.0043,0.9852,0.0021,84
+yebsap,state,USA-CT,Connecticut,12705,prebreeding_migration,0.2923,0.0036,0.9523,0.002,70
+yebsap,state,USA-DC,District of Columbia,162,nonbreeding,0.3337,1e-4,1,0,119
+yebsap,state,USA-DC,District of Columbia,162,postbreeding_migration,0.2105,1e-4,1,0,49
+yebsap,state,USA-DC,District of Columbia,162,prebreeding_migration,0.3119,0,1,0,63
+yebsap,state,USA-DE,Delaware,5172,nonbreeding,0.1087,0.001,0.7881,0.0012,119
+yebsap,state,USA-DE,Delaware,5172,postbreeding_migration,0.0709,7e-4,0.821,8e-4,49
+yebsap,state,USA-DE,Delaware,5172,prebreeding_migration,0.0367,2e-4,0.5458,5e-4,49
+yebsap,state,USA-FL,Florida,146720,nonbreeding,0.2164,0.057,0.9147,0.0399,119
+yebsap,state,USA-FL,Florida,146720,postbreeding_migration,0.0668,0.0193,0.86,0.0219,35
+yebsap,state,USA-FL,Florida,146720,prebreeding_migration,0.0206,0.003,0.6923,0.0169,28
+yebsap,state,USA-GA,Georgia,152164,breeding,0,0,3e-4,0,0
+yebsap,state,USA-GA,Georgia,152164,nonbreeding,0.3147,0.08,0.9925,0.0418,119
+yebsap,state,USA-GA,Georgia,152164,postbreeding_migration,0.1227,0.0342,0.9788,0.0241,42
+yebsap,state,USA-GA,Georgia,152164,prebreeding_migration,0.0518,0.0073,0.9564,0.0225,49
+yebsap,state,USA-IA,Iowa,145449,breeding,0.006,9e-4,0.0529,0.0019,91
+yebsap,state,USA-IA,Iowa,145449,nonbreeding,0.0016,4e-4,0.1884,0.0075,98
+yebsap,state,USA-IA,Iowa,145449,postbreeding_migration,0.0313,0.0083,0.8552,0.0199,84
+yebsap,state,USA-IA,Iowa,145449,prebreeding_migration,0.0373,0.005,0.5315,0.0118,70
+yebsap,state,USA-IL,Illinois,150153,breeding,4e-4,1e-4,0.0066,2e-4,91
+yebsap,state,USA-IL,Illinois,150153,nonbreeding,0.0246,0.0059,0.322,0.0129,119
+yebsap,state,USA-IL,Illinois,150153,postbreeding_migration,0.0611,0.0162,0.8967,0.021,84
+yebsap,state,USA-IL,Illinois,150153,prebreeding_migration,0.0729,0.0098,0.7209,0.0162,70
+yebsap,state,USA-IN,Indiana,94332,nonbreeding,0.023,0.0036,0.3491,0.009,119
+yebsap,state,USA-IN,Indiana,94332,postbreeding_migration,0.0334,0.0057,0.649,0.0098,56
+yebsap,state,USA-IN,Indiana,94332,prebreeding_migration,0.0367,0.0032,0.6721,0.0097,56
+yebsap,state,USA-KS,Kansas,212825,nonbreeding,0.0153,0.0054,0.3281,0.0191,119
+yebsap,state,USA-KS,Kansas,212825,postbreeding_migration,0.013,0.005,0.7174,0.0244,49
+yebsap,state,USA-KS,Kansas,212825,prebreeding_migration,0.0024,5e-4,0.0854,0.0028,42
+yebsap,state,USA-KY,Kentucky,104577,nonbreeding,0.1393,0.0241,0.9496,0.0272,119
+yebsap,state,USA-KY,Kentucky,104577,postbreeding_migration,0.0802,0.0152,0.9767,0.0164,49
+yebsap,state,USA-KY,Kentucky,104577,prebreeding_migration,0.0702,0.0068,0.9267,0.0149,49
+yebsap,state,USA-LA,Louisiana,119548,nonbreeding,0.2952,0.0612,0.9332,0.0321,119
+yebsap,state,USA-LA,Louisiana,119548,postbreeding_migration,0.1207,0.0274,0.8386,0.0169,42
+yebsap,state,USA-LA,Louisiana,119548,prebreeding_migration,0.0306,0.0035,0.6568,0.0126,49
+yebsap,state,USA-MA,Massachusetts,21161,breeding,0.176,0.0042,0.3816,0.0023,91
+yebsap,state,USA-MA,Massachusetts,21161,nonbreeding,0.0477,0.0019,0.6136,0.0041,119
+yebsap,state,USA-MA,Massachusetts,21161,postbreeding_migration,0.1089,0.0048,0.8161,0.0032,84
+yebsap,state,USA-MA,Massachusetts,21161,prebreeding_migration,0.2679,0.006,0.8235,0.003,70
+yebsap,state,USA-MD,Maryland,25462,breeding,0.0025,1e-4,0.0233,2e-4,91
+yebsap,state,USA-MD,Maryland,25462,nonbreeding,0.2151,0.0106,0.864,0.0071,119
+yebsap,state,USA-MD,Maryland,25462,postbreeding_migration,0.1196,0.0065,0.9028,0.0043,84
+yebsap,state,USA-MD,Maryland,25462,prebreeding_migration,0.0831,0.0023,0.7632,0.0035,70
+yebsap,state,USA-ME,Maine,84258,breeding,0.4133,0.0363,0.9037,0.0203,91
+yebsap,state,USA-ME,Maine,84258,nonbreeding,0,0,0.0022,1e-4,7
+yebsap,state,USA-ME,Maine,84258,postbreeding_migration,0.1544,0.0249,0.9651,0.0138,70
+yebsap,state,USA-ME,Maine,84258,prebreeding_migration,0.4248,0.0349,0.9204,0.0126,49
+yebsap,state,USA-MI,Michigan,250046,breeding,0.2061,0.0332,0.5621,0.0232,91
+yebsap,state,USA-MI,Michigan,250046,nonbreeding,3e-4,1e-4,0.029,0.0013,98
+yebsap,state,USA-MI,Michigan,250046,postbreeding_migration,0.0937,0.0278,0.8363,0.0219,84
+yebsap,state,USA-MI,Michigan,250046,prebreeding_migration,0.2611,0.0394,0.8339,0.0209,49
+yebsap,state,USA-MN,Minnesota,224778,breeding,0.1852,0.0396,0.7513,0.041,91
+yebsap,state,USA-MN,Minnesota,224778,nonbreeding,0,0,0.0043,3e-4,14
+yebsap,state,USA-MN,Minnesota,224778,postbreeding_migration,0.0852,0.0335,0.7927,0.0276,70
+yebsap,state,USA-MN,Minnesota,224778,prebreeding_migration,0.2034,0.0407,0.7992,0.0266,49
+yebsap,state,USA-MO,Missouri,180475,nonbreeding,0.0909,0.0271,0.8096,0.04,119
+yebsap,state,USA-MO,Missouri,180475,postbreeding_migration,0.0673,0.022,0.913,0.0264,56
+yebsap,state,USA-MO,Missouri,180475,prebreeding_migration,0.0637,0.0106,0.7777,0.0215,49
+yebsap,state,USA-MS,Mississippi,123806,nonbreeding,0.2838,0.0586,0.9555,0.0327,119
+yebsap,state,USA-MS,Mississippi,123806,postbreeding_migration,0.1234,0.0279,0.8904,0.0178,49
+yebsap,state,USA-MS,Mississippi,123806,prebreeding_migration,0.0467,0.0054,0.8655,0.0166,35
+yebsap,state,USA-MT,Montana,379495,postbreeding_migration,0,0,1e-4,0,0
+yebsap,state,USA-NC,North Carolina,127661,breeding,8e-4,1e-4,0.0297,0.001,77
+yebsap,state,USA-NC,North Carolina,127661,nonbreeding,0.3043,0.0677,0.9547,0.0352,119
+yebsap,state,USA-NC,North Carolina,127661,postbreeding_migration,0.1224,0.0299,0.9426,0.0203,84
+yebsap,state,USA-NC,North Carolina,127661,prebreeding_migration,0.0673,0.0084,0.9021,0.0186,70
+yebsap,state,USA-ND,North Dakota,182745,breeding,0.046,0.0083,0.3323,0.0152,91
+yebsap,state,USA-ND,North Dakota,182745,postbreeding_migration,0.0366,0.0121,0.3611,0.0105,49
+yebsap,state,USA-ND,North Dakota,182745,prebreeding_migration,0.0447,0.0075,0.3396,0.0095,42
+yebsap,state,USA-NE,Nebraska,200968,breeding,0,0,8e-4,0,0
+yebsap,state,USA-NE,Nebraska,200968,nonbreeding,1e-4,0,0.0075,4e-4,42
+yebsap,state,USA-NE,Nebraska,200968,postbreeding_migration,8e-4,3e-4,0.0941,0.003,35
+yebsap,state,USA-NE,Nebraska,200968,prebreeding_migration,4e-4,1e-4,0.0063,2e-4,42
+yebsap,state,USA-NH,New Hampshire,24266,breeding,0.4063,0.0097,0.8904,0.0055,91
+yebsap,state,USA-NH,New Hampshire,24266,nonbreeding,0.0025,1e-4,0.0844,6e-4,119
+yebsap,state,USA-NH,New Hampshire,24266,postbreeding_migration,0.1435,0.0063,0.925,0.0036,84
+yebsap,state,USA-NH,New Hampshire,24266,prebreeding_migration,0.4622,0.0104,0.9971,0.0037,70
+yebsap,state,USA-NJ,New Jersey,19667,breeding,0.0085,2e-4,0.0348,2e-4,91
+yebsap,state,USA-NJ,New Jersey,19667,nonbreeding,0.2016,0.0072,0.8578,0.0051,119
+yebsap,state,USA-NJ,New Jersey,19667,postbreeding_migration,0.1235,0.0048,0.9112,0.0031,84
+yebsap,state,USA-NJ,New Jersey,19667,prebreeding_migration,0.113,0.0022,0.8148,0.0027,70
+yebsap,state,USA-NM,New Mexico,315077,nonbreeding,1e-4,1e-4,0.0097,8e-4,28
+yebsap,state,USA-NM,New Mexico,315077,postbreeding_migration,5e-4,3e-4,0.0462,0.0023,35
+yebsap,state,USA-NM,New Mexico,315077,prebreeding_migration,0,0,6e-4,0,0
+yebsap,state,USA-NV,Nevada,287086,nonbreeding,0,0,0,0,0
+yebsap,state,USA-NV,Nevada,287086,postbreeding_migration,0,0,2e-4,0,0
+yebsap,state,USA-NY,New York,136933,breeding,0.2744,0.0354,0.7504,0.0248,91
+yebsap,state,USA-NY,New York,136933,nonbreeding,0.03,0.0065,0.2846,0.0102,119
+yebsap,state,USA-NY,New York,136933,postbreeding_migration,0.1285,0.0305,0.9682,0.0203,84
+yebsap,state,USA-NY,New York,136933,prebreeding_migration,0.3562,0.0431,0.9201,0.0185,70
+yebsap,state,USA-OH,Ohio,116044,breeding,0.0013,1e-4,0.0168,5e-4,70
+yebsap,state,USA-OH,Ohio,116044,nonbreeding,0.0401,0.0072,0.4051,0.012,119
+yebsap,state,USA-OH,Ohio,116044,postbreeding_migration,0.043,0.0084,0.7928,0.0137,56
+yebsap,state,USA-OH,Ohio,116044,prebreeding_migration,0.0515,0.0051,0.7338,0.0122,70
+yebsap,state,USA-OK,Oklahoma,180639,nonbreeding,0.1246,0.0372,0.717,0.0355,119
+yebsap,state,USA-OK,Oklahoma,180639,postbreeding_migration,0.0537,0.0176,0.8274,0.0239,42
+yebsap,state,USA-OK,Oklahoma,180639,prebreeding_migration,0.0215,0.0036,0.6106,0.0169,42
+yebsap,state,USA-PA,Pennsylvania,119357,breeding,0.136,0.0158,0.3893,0.0115,91
+yebsap,state,USA-PA,Pennsylvania,119357,nonbreeding,0.0837,0.0163,0.7354,0.0237,119
+yebsap,state,USA-PA,Pennsylvania,119357,postbreeding_migration,0.1131,0.0241,0.9751,0.0184,84
+yebsap,state,USA-PA,Pennsylvania,119357,prebreeding_migration,0.2121,0.023,0.9585,0.0173,70
+yebsap,state,USA-RI,Rhode Island,2832,breeding,0.0026,0,0.0485,0,84
+yebsap,state,USA-RI,Rhode Island,2832,nonbreeding,0.0942,6e-4,0.7565,7e-4,119
+yebsap,state,USA-RI,Rhode Island,2832,postbreeding_migration,0.0766,5e-4,0.7903,5e-4,84
+yebsap,state,USA-RI,Rhode Island,2832,prebreeding_migration,0.056,2e-4,0.6924,4e-4,70
+yebsap,state,USA-SC,South Carolina,80164,nonbreeding,0.362,0.0491,0.9821,0.0221,119
+yebsap,state,USA-SC,South Carolina,80164,postbreeding_migration,0.1444,0.0215,0.9756,0.0128,42
+yebsap,state,USA-SC,South Carolina,80164,prebreeding_migration,0.0627,0.0048,0.9576,0.0121,56
+yebsap,state,USA-SD,South Dakota,199305,breeding,0.0033,6e-4,0.0329,0.0016,91
+yebsap,state,USA-SD,South Dakota,199305,postbreeding_migration,0.0029,0.0011,0.0623,0.002,49
+yebsap,state,USA-SD,South Dakota,199305,prebreeding_migration,0.0057,0.001,0.0494,0.0015,49
+yebsap,state,USA-TN,Tennessee,109299,breeding,2e-4,0,0.011,3e-4,63
+yebsap,state,USA-TN,Tennessee,109299,nonbreeding,0.2545,0.046,0.9942,0.0298,119
+yebsap,state,USA-TN,Tennessee,109299,postbreeding_migration,0.112,0.0222,0.9942,0.0174,77
+yebsap,state,USA-TN,Tennessee,109299,prebreeding_migration,0.0729,0.0074,0.9437,0.0158,70
+yebsap,state,USA-TX,Texas,685341,nonbreeding,0.1157,0.1327,0.6795,0.1292,119
+yebsap,state,USA-TX,Texas,685341,postbreeding_migration,0.0494,0.0621,0.724,0.0805,42
+yebsap,state,USA-TX,Texas,685341,prebreeding_migration,0.0097,0.0062,0.3884,0.0413,42
+yebsap,state,USA-UT,Utah,219762,nonbreeding,0,0,1e-4,0,0
+yebsap,state,USA-VA,Virginia,103725,breeding,9e-4,1e-4,0.0101,3e-4,91
+yebsap,state,USA-VA,Virginia,103725,nonbreeding,0.2909,0.052,0.9672,0.0286,119
+yebsap,state,USA-VA,Virginia,103725,postbreeding_migration,0.1339,0.0262,0.964,0.0167,84
+yebsap,state,USA-VA,Virginia,103725,prebreeding_migration,0.0851,0.0085,0.9159,0.0152,70
+yebsap,state,USA-VT,Vermont,24637,breeding,0.4586,0.0111,0.9469,0.0058,91
+yebsap,state,USA-VT,Vermont,24637,nonbreeding,5e-4,0,0.0284,2e-4,112
+yebsap,state,USA-VT,Vermont,24637,postbreeding_migration,0.1459,0.0065,0.9669,0.0038,84
+yebsap,state,USA-VT,Vermont,24637,prebreeding_migration,0.5406,0.0122,0.965,0.0036,56
+yebsap,state,USA-WI,Wisconsin,169394,breeding,0.2215,0.0325,0.718,0.0269,91
+yebsap,state,USA-WI,Wisconsin,169394,nonbreeding,1e-4,0,0.0317,0.0013,21
+yebsap,state,USA-WI,Wisconsin,169394,postbreeding_migration,0.1077,0.0291,0.8927,0.0213,84
+yebsap,state,USA-WI,Wisconsin,169394,prebreeding_migration,0.2669,0.0367,0.9391,0.0214,56
+yebsap,state,USA-WV,West Virginia,62735,breeding,0.0135,8e-4,0.1174,0.0019,91
+yebsap,state,USA-WV,West Virginia,62735,nonbreeding,0.1695,0.0176,0.9856,0.0169,119
+yebsap,state,USA-WV,West Virginia,62735,postbreeding_migration,0.1091,0.0124,0.9974,0.01,84
+yebsap,state,USA-WV,West Virginia,62735,prebreeding_migration,0.1148,0.0066,0.9869,0.0095,70
