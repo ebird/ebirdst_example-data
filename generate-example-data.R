@@ -66,7 +66,11 @@ boundary_ll <- ne_states(iso_a2 = "US", returnclass = "sf") %>%
 for (i in seq_len(nrow(files))) {
   s <- files$source[i]
   d <- files$destination[i]
-  if (str_ends(s, "tif")) {
+  if (str_ends(s, "config.json")) {
+    p <- read_json(s, simplifyVector = TRUE)
+    p[["SPECIES_CODE"]] <- ex_species
+    write_json(p, path = d, pretty = TRUE, digits = NA, na = "null")
+  } else if (str_ends(s, "tif")) {
     r <- rast(s)
     boundary <- vect(boundary_ll) %>%
       project(crs(r))
