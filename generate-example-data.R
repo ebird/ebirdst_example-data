@@ -92,7 +92,7 @@ for (i in seq_len(nrow(files))) {
     data <- read_parquet(s) %>%
       mutate(species_code = ex_species)
     data_sf <- st_as_sf(data, coords = c("longitude", "latitude"), crs = 4326)
-    within <- st_contains(data_sf, boundary_ll, sparse = FALSE)[, 1, drop = TRUE]
+    within <- st_intersects(data_sf, boundary_ll, sparse = FALSE)[, 1, drop = TRUE]
     write_parquet(data[within, ], d)
   } else if (str_ends(s, "csv")) {
     data <- read_csv(s, show_col_types = FALSE, na = "")
