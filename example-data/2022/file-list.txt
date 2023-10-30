@@ -17,7 +17,6 @@
 2022/yebsap-example/ppms/yebsap-example_ppm_log-abd-pearson_27km_2022.tif
 2022/yebsap-example/ppms/yebsap-example_ppm_log-count-pearson_27km_2022.tif
 2022/yebsap-example/ppms/yebsap-example_ppm_occ-bernoulli-dev_27km_2022.tif
-2022/yebsap-example/ppms/yebsap_ppm_abd-poisson-dev_27km_2022.tif
 2022/yebsap-example/ranges/yebsap-example_range_raw_27km_2022.gpkg
 2022/yebsap-example/ranges/yebsap-example_range_smooth_27km_2022.gpkg
 2022/yebsap-example/regional_stats.csv
@@ -44,4 +43,5 @@
 2022/yebsap-example/weekly/yebsap-example_abundance_upper_27km_2022.tif
 2022/yebsap-example/weekly/yebsap-example_centroids.csv
 2022/yebsap-example/weekly/yebsap-example_count_median_27km_2022.tif
+2022/yebsap-example/weekly/yebsap-example_occurrence_median_27km_2022.tif
 2022/yebsap-example/weekly/yebsap-example_proportion-population_median_27km_2022.tif

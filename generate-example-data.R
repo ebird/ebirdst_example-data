@@ -89,10 +89,20 @@ for (i in seq_len(nrow(files))) {
         write_sf(d, layer = l, delete_layer = TRUE)
     }
   } else if (str_ends(s, "parquet")) {
-    data <- read_parquet(s)
+    data <- read_parquet(s) %>%
+      mutate(species_code = ex_species)
     data_sf <- st_as_sf(data, coords = c("longitude", "latitude"), crs = 4326)
     within <- st_contains(data_sf, boundary_ll, sparse = FALSE)[, 1, drop = TRUE]
     write_parquet(data[within, ], d)
+  } else if (str_ends(s, "csv")) {
+    data <- read_csv(s, show_col_types = FALSE, na = "")
+    if ("species_code" %in% names(data)) {
+      data$species_code <- ex_species
+    }
+    if ("region_code" %in% names(data)) {
+      data <- filter(data, region_code %in% c("USA", "USA-MI"))
+    }
+    write_csv(data, file = d, na = "")
   } else {
     file_copy(s, d, overwrite = TRUE)
   }

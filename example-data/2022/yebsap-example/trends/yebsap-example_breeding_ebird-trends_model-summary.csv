@@ -1,2 +1,2 @@
 species_code,common_name,season,modeled_region,start_year,end_year,start_date,end_date,rsquared,beta0
-yebsap,Yellow-bellied Sapsucker,breeding,north_america,2012,2022,05-24,08-16,0.8572895976795778,0.2270008490410217
+yebsap-example,Yellow-bellied Sapsucker,breeding,north_america,2012,2022,05-24,08-16,0.8572895976795778,0.2270008490410217
