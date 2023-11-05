@@ -75,7 +75,6 @@ for (i in seq_len(nrow(files))) {
     boundary <- vect(boundary_ll) %>%
       project(crs(r))
     r %>%
-      crop(boundary) %>%
       mask(boundary) %>%
       writeRaster(filename = d, overwrite = TRUE,
                   datatype = "FLT4S",
