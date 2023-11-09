@@ -37,7 +37,7 @@ files <- dir_ls(temp_dir, recurse = TRUE, type = "file") %>%
   # remove web package
   discard(str_detect, pattern = "/web_download/") %>%
   # address pis separately
-  discard(str_detect, pattern = "/pis/")
+  discard(str_detect, pattern = "/pis/.*tif")
 # only retain the top pis
 top_preds <- c("elevation_250m_median",
                "ntl_mean",
@@ -100,6 +100,9 @@ for (i in seq_len(nrow(files))) {
     }
     if ("region_code" %in% names(data)) {
       data <- filter(data, region_code %in% c("USA", "USA-MI"))
+    }
+    if (str_ends(s, "pi_rangewide-ranks.csv")) {
+      data <- filter(data, predictor %in% top_preds)
     }
     write_csv(data, file = d, na = "")
   } else {
