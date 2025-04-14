@@ -8,7 +8,7 @@ library(sf)
 library(terra)
 library(tidyverse)
 
-year <- "2022"
+year <- "2023"
 species <- "yebsap"
 ex_species <- paste0(species, "-example")
 # full species package directory
@@ -24,7 +24,7 @@ glue("aws s3 sync {s3_bucket}/{year}/{species}/ {temp_dir}/") %>%
   system()
 
 # create directory structure
-dirs <- c("weekly", "seasonal", "trends", "ranges", "pis", "ppms")
+dirs <- c("weekly", "seasonal", "ranges", "pis", "ppms")
 dirs <- path(dest_dir, ex_species, dirs) %>%
   as.character() %>%
   setNames(dirs)
