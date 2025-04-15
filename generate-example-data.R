@@ -39,11 +39,11 @@ files <- dir_ls(temp_dir, recurse = TRUE, type = "file") %>%
   # address pis separately
   discard(str_detect, pattern = "/pis/.*tif")
 # only retain the top pis
-top_preds <- c("elevation_250m_median",
-               "ntl_mean",
-               "gsw_c2_pland",
+top_preds <- c("gsw_c2_pland",
                "mcd12q1_lccs1_c21_pland",
-               "mcd12q1_lccs1_c22_pland")
+               "mcd12q1_lccs1_c31_pland",
+               "mcd12q1_lccs1_c22_pland",
+               "mcd12q1_lccs1_c14_pland")
 top_pred_pattern <- top_preds %>%
   str_replace_all("_", "-") %>%
   paste(collapse = "|")
@@ -101,7 +101,7 @@ for (i in seq_len(nrow(files))) {
     if ("region_code" %in% names(data)) {
       data <- filter(data, region_code %in% c("USA", "USA-MI"))
     }
-    if (str_ends(s, "pi_rangewide-ranks.csv")) {
+    if (str_ends(s, "pi_rangewide.csv")) {
       data <- filter(data, predictor %in% top_preds)
     }
     write_csv(data, file = d, na = "")
