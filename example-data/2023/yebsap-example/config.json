@@ -1,0 +1,131 @@
+{
+  "FOLD_N": [100],
+  "NUM_PD_FOLDS": [0],
+  "NUM_SHARDS_SUMMARIZE": [100],
+  "SRD_PRED_YEAR": [2023],
+  "MIN_ERD_YEAR": [2009],
+  "IS_CCI": [false],
+  "IS_DATA_COVERAGE": [false],
+  "IS_BESPOKE": [false],
+  "SRD_PRED_DAYS": [4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 165, 172, 179, 186, 193, 200, 207, 214, 221, 228, 235, 242, 249, 256, 263, 270, 277, 284, 291, 298, 305, 312, 319, 326, 333, 340, 347, 354, 361],
+  "SRD_WINDOW_WIDTH": [7],
+  "DATE_NAMES": ["01-04", "01-11", "01-18", "01-25", "02-01", "02-08", "02-15", "02-22", "03-01", "03-08", "03-15", "03-22", "03-29", "04-05", "04-12", "04-19", "04-26", "05-03", "05-10", "05-17", "05-24", "05-31", "06-07", "06-14", "06-21", "06-28", "07-05", "07-12", "07-19", "07-26", "08-02", "08-09", "08-16", "08-23", "08-30", "09-06", "09-13", "09-20", "09-27", "10-04", "10-11", "10-18", "10-25", "11-01", "11-08", "11-15", "11-22", "11-29", "12-06", "12-13", "12-20", "12-27"],
+  "FACTOR_COVARS": ["island", "mountain"],
+  "HABITAT_COVARS": ["island", "mountain", "eastness_1km_median", "eastness_1km_sd", "eastness_90m_median", "eastness_90m_sd", "northness_1km_median", "northness_1km_sd", "northness_90m_median", "northness_90m_sd", "elevation_30m_median", "elevation_30m_sd", "bathymetry_elevation_median", "bathymetry_elevation_sd", "astwbd_c1_ed", "astwbd_c1_pland", "astwbd_c2_ed", "astwbd_c2_pland", "astwbd_c3_ed", "astwbd_c3_pland", "gsw_c2_pland", "gsw_c2_ed", "ntl_mean", "ntl_sd", "road_density_c1", "road_density_c2", "road_density_c3", "road_density_c4", "road_density_c5", "mcd12q1_lccs1_c1_ed", "mcd12q1_lccs1_c1_pland", "mcd12q1_lccs1_c2_ed", "mcd12q1_lccs1_c2_pland", "mcd12q1_lccs1_c11_ed", "mcd12q1_lccs1_c11_pland", "mcd12q1_lccs1_c12_ed", "mcd12q1_lccs1_c12_pland", "mcd12q1_lccs1_c13_ed", "mcd12q1_lccs1_c13_pland", "mcd12q1_lccs1_c14_ed", "mcd12q1_lccs1_c14_pland", "mcd12q1_lccs1_c15_ed", "mcd12q1_lccs1_c15_pland", "mcd12q1_lccs1_c16_ed", "mcd12q1_lccs1_c16_pland", "mcd12q1_lccs1_c21_ed", "mcd12q1_lccs1_c21_pland", "mcd12q1_lccs1_c22_ed", "mcd12q1_lccs1_c22_pland", "mcd12q1_lccs1_c31_ed", "mcd12q1_lccs1_c31_pland", "mcd12q1_lccs1_c32_ed", "mcd12q1_lccs1_c32_pland", "mcd12q1_lccs1_c41_ed", "mcd12q1_lccs1_c41_pland", "mcd12q1_lccs1_c42_ed", "mcd12q1_lccs1_c42_pland", "mcd12q1_lccs1_c43_ed", "mcd12q1_lccs1_c43_pland", "mcd12q1_lccs1_c255_ed", "mcd12q1_lccs1_c255_pland", "mcd12q1_lccs2_c25_ed", "mcd12q1_lccs2_c25_pland", "mcd12q1_lccs2_c35_ed", "mcd12q1_lccs2_c35_pland", "mcd12q1_lccs2_c36_ed", "mcd12q1_lccs2_c36_pland", "mcd12q1_lccs3_c27_ed", "mcd12q1_lccs3_c27_pland", "mcd12q1_lccs3_c50_ed", "mcd12q1_lccs3_c50_pland", "mcd12q1_lccs3_c51_ed", "mcd12q1_lccs3_c51_pland", "has_shoreline", "shoreline_waveheight_mean", "shoreline_waveheight_sd", "shoreline_tidal_range_mean", "shoreline_tidal_range_sd", "shoreline_chlorophyll_mean", "shoreline_chlorophyll_sd", "shoreline_turbidity_mean", "shoreline_turbidity_sd", "shoreline_sinuosity_mean", "shoreline_sinuosity_sd", "shoreline_slope_mean", "shoreline_slope_sd", "shoreline_outflow_density_mean", "shoreline_outflow_density_sd", "shoreline_erodibility_n", "shoreline_erodibility_c1_density", "shoreline_erodibility_c2_density", "shoreline_erodibility_c3_density", "shoreline_erodibility_c4_density", "shoreline_emu_physical_n", "shoreline_emu_physical_c1_density", "shoreline_emu_physical_c2_density", "shoreline_emu_physical_c3_density", "shoreline_emu_physical_c4_density", "shoreline_emu_physical_c5_density", "shoreline_emu_physical_c6_density", "shoreline_emu_physical_c7_density", "shoreline_emu_physical_c8_density", "shoreline_emu_physical_c9_density", "shoreline_emu_physical_c10_density", "shoreline_emu_physical_c11_density", "shoreline_emu_physical_c12_density", "shoreline_emu_physical_c13_density", "shoreline_emu_physical_c14_density", "shoreline_emu_physical_c15_density", "shoreline_emu_physical_c16_density", "shoreline_emu_physical_c17_density", "shoreline_emu_physical_c18_density", "shoreline_emu_physical_c19_density", "shoreline_emu_physical_c20_density", "shoreline_emu_physical_c21_density", "shoreline_emu_physical_c22_density", "shoreline_emu_physical_c23_density", "has_ocean_chlorophyll", "ocean_chlorophyll", "has_ocean_sst", "ocean_sst", "has_ocean_ssta", "ocean_ssta", "has_evi", "evi_median", "evi_sd"],
+  "OBS_COVARS": ["is_stationary", "year", "day_of_year", "solar_noon_diff", "effort_hrs", "effort_distance_km", "effort_speed_kmph", "num_observers", "cci"],
+  "WEATHER_COVARS": ["moon_fraction", "moon_altitude", "cds_u10", "cds_v10", "cds_d2m", "cds_t2m", "cds_hcc", "cds_i10fg", "cds_mcc", "cds_lcc", "cds_sf", "cds_rf", "cds_slc", "cds_msl"],
+  "PREDICTOR_LIST": ["is_stationary", "year", "day_of_year", "solar_noon_diff", "effort_hrs", "effort_distance_km", "effort_speed_kmph", "num_observers", "cci", "moon_fraction", "moon_altitude", "cds_u10", "cds_v10", "cds_d2m", "cds_t2m", "cds_hcc", "cds_i10fg", "cds_mcc", "cds_lcc", "cds_sf", "cds_rf", "cds_slc", "cds_msl", "island", "mountain", "eastness_1km_median", "eastness_1km_sd", "eastness_90m_median", "eastness_90m_sd", "northness_1km_median", "northness_1km_sd", "northness_90m_median", "northness_90m_sd", "elevation_30m_median", "elevation_30m_sd", "bathymetry_elevation_median", "bathymetry_elevation_sd", "astwbd_c1_ed", "astwbd_c1_pland", "astwbd_c2_ed", "astwbd_c2_pland", "astwbd_c3_ed", "astwbd_c3_pland", "gsw_c2_pland", "gsw_c2_ed", "ntl_mean", "ntl_sd", "road_density_c1", "road_density_c2", "road_density_c3", "road_density_c4", "road_density_c5", "mcd12q1_lccs1_c1_ed", "mcd12q1_lccs1_c1_pland", "mcd12q1_lccs1_c2_ed", "mcd12q1_lccs1_c2_pland", "mcd12q1_lccs1_c11_ed", "mcd12q1_lccs1_c11_pland", "mcd12q1_lccs1_c12_ed", "mcd12q1_lccs1_c12_pland", "mcd12q1_lccs1_c13_ed", "mcd12q1_lccs1_c13_pland", "mcd12q1_lccs1_c14_ed", "mcd12q1_lccs1_c14_pland", "mcd12q1_lccs1_c15_ed", "mcd12q1_lccs1_c15_pland", "mcd12q1_lccs1_c16_ed", "mcd12q1_lccs1_c16_pland", "mcd12q1_lccs1_c21_ed", "mcd12q1_lccs1_c21_pland", "mcd12q1_lccs1_c22_ed", "mcd12q1_lccs1_c22_pland", "mcd12q1_lccs1_c31_ed", "mcd12q1_lccs1_c31_pland", "mcd12q1_lccs1_c32_ed", "mcd12q1_lccs1_c32_pland", "mcd12q1_lccs1_c41_ed", "mcd12q1_lccs1_c41_pland", "mcd12q1_lccs1_c42_ed", "mcd12q1_lccs1_c42_pland", "mcd12q1_lccs1_c43_ed", "mcd12q1_lccs1_c43_pland", "mcd12q1_lccs1_c255_ed", "mcd12q1_lccs1_c255_pland", "mcd12q1_lccs2_c25_ed", "mcd12q1_lccs2_c25_pland", "mcd12q1_lccs2_c35_ed", "mcd12q1_lccs2_c35_pland", "mcd12q1_lccs2_c36_ed", "mcd12q1_lccs2_c36_pland", "mcd12q1_lccs3_c27_ed", "mcd12q1_lccs3_c27_pland", "mcd12q1_lccs3_c50_ed", "mcd12q1_lccs3_c50_pland", "mcd12q1_lccs3_c51_ed", "mcd12q1_lccs3_c51_pland", "has_shoreline", "shoreline_waveheight_mean", "shoreline_waveheight_sd", "shoreline_tidal_range_mean", "shoreline_tidal_range_sd", "shoreline_chlorophyll_mean", "shoreline_chlorophyll_sd", "shoreline_turbidity_mean", "shoreline_turbidity_sd", "shoreline_sinuosity_mean", "shoreline_sinuosity_sd", "shoreline_slope_mean", "shoreline_slope_sd", "shoreline_outflow_density_mean", "shoreline_outflow_density_sd", "shoreline_erodibility_n", "shoreline_erodibility_c1_density", "shoreline_erodibility_c2_density", "shoreline_erodibility_c3_density", "shoreline_erodibility_c4_density", "shoreline_emu_physical_n", "shoreline_emu_physical_c1_density", "shoreline_emu_physical_c2_density", "shoreline_emu_physical_c3_density", "shoreline_emu_physical_c4_density", "shoreline_emu_physical_c5_density", "shoreline_emu_physical_c6_density", "shoreline_emu_physical_c7_density", "shoreline_emu_physical_c8_density", "shoreline_emu_physical_c9_density", "shoreline_emu_physical_c10_density", "shoreline_emu_physical_c11_density", "shoreline_emu_physical_c12_density", "shoreline_emu_physical_c13_density", "shoreline_emu_physical_c14_density", "shoreline_emu_physical_c15_density", "shoreline_emu_physical_c16_density", "shoreline_emu_physical_c17_density", "shoreline_emu_physical_c18_density", "shoreline_emu_physical_c19_density", "shoreline_emu_physical_c20_density", "shoreline_emu_physical_c21_density", "shoreline_emu_physical_c22_density", "shoreline_emu_physical_c23_density", "has_ocean_chlorophyll", "ocean_chlorophyll", "has_ocean_sst", "ocean_sst", "has_ocean_ssta", "ocean_ssta", "has_evi", "evi_median", "evi_sd"],
+  "WEEKLY_SRD_COVARS": ["has_ocean_chlorophyll", "ocean_chlorophyll", "has_ocean_sst", "ocean_sst", "has_ocean_ssta", "ocean_ssta", "has_evi", "evi_median", "evi_sd"],
+  "ALWAYS_SPLIT_COVARS": ["island", "mountain", "has_shoreline", "has_evi", "has_ocean_chlorophyll", "has_ocean_sst", "has_ocean_ssta", "circular_day_of_year_sin", "circular_day_of_year_cos"],
+  "PD_FEATURES": [],
+  "SPECIES_CODE": ["yebsap-example"],
+  "SRD_TYPE": ["land"],
+  "PREDICT_TO_SRD": [true],
+  "NUM_ES_FOLDS": [400],
+  "NUM_FP_SHARDS_PER_FOLD": [1],
+  "IS_RESIDENT": [false],
+  "USE_SINGLE_SPECIES_STIXELS": [false],
+  "STIXEL_SUBDIR": ["land_month"],
+  "MEM_MULT_FIT_PREDICT": [1],
+  "es_threshold": {
+    "day_of_year": [4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 165, 172, 179, 186, 193, 200, 207, 214, 221, 228, 235, 242, 249, 256, 263, 270, 277, 284, 291, 298, 305, 312, 319, 326, 333, 340, 347, 354, 361],
+    "threshold": [0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.93, 0.935, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95, 0.95]
+  },
+  "has_predictions": [true],
+  "projection": {
+    "extent": [-2143691.5, 3167252.5, -2936734, 3507743],
+    "res": [3104, 2899],
+    "crs": ["+proj=laea +lat_0=36.236 +lon_0=-98.98 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"]
+  },
+  "projection_diagnostic": {
+    "extent": [-2417735, 4039261, -3532190.5, 3937384.5],
+    "res": [3066, 2935],
+    "crs": ["+proj=laea +lat_0=37.88 +lon_0=-99.874 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"]
+  },
+  "bbox_ll": {
+    "xmin": [-138.362],
+    "ymin": [8.38],
+    "xmax": [-59.598],
+    "ymax": [64.092]
+  },
+  "bbox_native": {
+    "xmin": [-10597500],
+    "ymin": [1066500],
+    "xmax": [-4846500],
+    "ymax": [7276500]
+  },
+  "display_resolution": ["3km"],
+  "bins": {
+    "3km": {
+      "breaks": [0.0001228, 0.07721, 0.1301, 0.1716, 0.2087, 0.2429, 0.2739, 0.303, 0.3312, 0.3594, 0.3881, 0.4177, 0.4487, 0.4808, 0.5144, 0.5511, 0.5935, 0.6461, 0.7266, 0.9029, 4],
+      "labels": [0.07721, 0.3881, 0.9029],
+      "bivariate": [0.25, 1.092, 1.147, 1.196, 1.245, 1.296, 1.352, 1.419, 1.508, 1.66, 7]
+    },
+    "9km": {
+      "breaks": [0.0001326, 0.01275, 0.02412, 0.03728, 0.05454, 0.07705, 0.1028, 0.1316, 0.1634, 0.1983, 0.2368, 0.2766, 0.3174, 0.3592, 0.4039, 0.4537, 0.506, 0.5639, 0.6378, 0.7865, 3],
+      "labels": [0.01275, 0.2368, 0.7865],
+      "bivariate": [0.02778, 0.2273, 0.4054, 0.6331, 0.8631, 1.053, 1.168, 1.26, 1.358, 1.513, 5]
+    },
+    "27km": {
+      "breaks": [2.066e-05, 0.001714, 0.00432, 0.008897, 0.01605, 0.02655, 0.04079, 0.05978, 0.08293, 0.1108, 0.1441, 0.1807, 0.2223, 0.2674, 0.3148, 0.3666, 0.4263, 0.494, 0.5735, 0.7022, 3],
+      "labels": [0.001714, 0.1441, 0.7022],
+      "bivariate": [0.003086, 0.05372, 0.1536, 0.3102, 0.5087, 0.7262, 0.9375, 1.11, 1.245, 1.398, 4]
+    }
+  },
+  "has_seasonal": [true],
+  "summarize_as_resident": [false],
+  "season_dates": [
+    {
+      "season": "nonbreeding",
+      "pass": true,
+      "quality": 3,
+      "start_date": "2023-11-22",
+      "end_date": "2023-03-08"
+    },
+    {
+      "season": "prebreeding_migration",
+      "pass": true,
+      "quality": 3,
+      "start_date": "2023-03-15",
+      "end_date": "2023-05-10"
+    },
+    {
+      "season": "breeding",
+      "pass": true,
+      "quality": 3,
+      "start_date": "2023-05-17",
+      "end_date": "2023-08-16"
+    },
+    {
+      "season": "postbreeding_migration",
+      "pass": true,
+      "quality": 3,
+      "start_date": "2023-08-23",
+      "end_date": "2023-11-15"
+    }
+  ],
+  "quality": {
+    "animation": [3],
+    "full_year": [3],
+    "nonbreeding": [3],
+    "prebreeding_migration": [3],
+    "breeding": [3],
+    "postbreeding_migration": [3]
+  },
+  "show_yearround": [true],
+  "split_migration": [false],
+  "bins_seasonal": {
+    "3km": {
+      "breaks": [9.72e-05, 0.01572, 0.03367, 0.05376, 0.07652, 0.1057, 0.138, 0.1706, 0.2028, 0.2348, 0.2703, 0.312, 0.357, 0.403, 0.4517, 0.5037, 0.5584, 0.6233, 0.7119, 0.8845, 4],
+      "labels": [0.01572, 0.2703, 0.8845]
+    },
+    "9km": {
+      "breaks": [1.171e-05, 0.003491, 0.009378, 0.01819, 0.02987, 0.04442, 0.0617, 0.08289, 0.1088, 0.138, 0.1708, 0.2063, 0.2444, 0.2926, 0.3478, 0.407, 0.4757, 0.548, 0.6373, 0.7899, 3],
+      "labels": [0.003491, 0.1708, 0.7899]
+    },
+    "27km": {
+      "breaks": [1.678e-06, 0.0008605, 0.002936, 0.006653, 0.01265, 0.02161, 0.03429, 0.04992, 0.06873, 0.09267, 0.1205, 0.1538, 0.191, 0.2309, 0.2822, 0.3418, 0.4102, 0.4914, 0.582, 0.7289, 3],
+      "labels": [0.0008605, 0.1205, 0.7289]
+    }
+  }
+}
